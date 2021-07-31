@@ -1,0 +1,27 @@
+TODO
+
+
+- Look for link pointing to tu-dresden.de
+- Images need to be adjusted
+- links need to be fixed
+- subfolders need to be addressed correctly
+
+
+Search and Replace:
+-------------------
+
+1.
+	{{% notice info %}}
+	<span class="info">
+
+2.
+	{{% /notice %}}
+	</span>
+
+
+-- find all
+	{{< relref "
+and remove
+
+
+

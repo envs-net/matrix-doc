@@ -3,7 +3,28 @@ site_description: envs.net | matrix help
 repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
 repo_url: https://git.envs.net/envs/matrix-doc
 
-theme: cyborg
+#theme: cyborg
+theme: readthedocs
 
 nav:
-- matrix at envs: index.md
+- Home: index.md
+- Why: why.md
+- First Steps: first-steps.md
+- Important Settings: settings.md
+- Clients / Instalation: clients.md
+- Messages: messaging.md
+- Rooms: rooms.md
+- Notifications: notifications.md
+- Communities: communities.md
+- Encryption: encryption.md
+- Integrations: integrations.md
+- FAQ: faq.md
+- Development: development.md 
+
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
+
