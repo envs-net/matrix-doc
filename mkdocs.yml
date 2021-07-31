@@ -8,9 +8,9 @@ theme: readthedocs
 
 nav:
 - Home: index.md
-- Why: why.md
-- First Steps: first-steps.md
-- Important Settings: settings.md
+- Why Matrix?: why.md
+- First steps: first-steps.md
+- Important settings: settings.md
 - Clients / Instalation: clients.md
 - Messages: messaging.md
 - Rooms: rooms.md
@@ -19,12 +19,10 @@ nav:
 - Encryption: encryption.md
 - Integrations: integrations.md
 - FAQ: faq.md
-- Development: development.md 
-
+- Development: development.md
 
 markdown_extensions:
     - toc:
         permalink: "#"
         baselevel: 1
         separator: "_"
-

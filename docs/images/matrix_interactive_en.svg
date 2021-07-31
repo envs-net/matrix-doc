@@ -3362,7 +3362,7 @@
     </g>
   </a>
   <a
-     href="https://matrix.tu-dresden.de"
+     href="https://matrix.envs.net"
      target="_blank"
      rel="noopener noreferrer"
      id="href_element">
@@ -3394,7 +3394,7 @@
            x="289.30502"
            y="171.15099"
            id="tspan612-8-4-1-6-9-9"
-           style="font-size:2.46944px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1">The TUD browser instance</tspan></text>
+           style="font-size:2.46944px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1">the envs matrix-webclient</tspan></text>
     </g>
   </a>
   <a
@@ -3417,7 +3417,7 @@
     </g>
   </a>
   <a
-     href="/en/clients/install_linux/"
+     href="https://element.io/get-started"
      target="_blank"
      rel="noopener noreferrer"
      id="href_linux">

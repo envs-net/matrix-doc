@@ -11,9 +11,7 @@ Matrix is a free and open, secure, decentralized protocol for real-time communic
 
 <object data="images/matrix_interactive_en.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
-In recent years, the need for supporting digital tools for team collaboration has increased. A central tool is a team chat. According to Wikipedia, a chat refers to "electronic communication by means of written text in real time, usually via the Internet". ([Source](https://en.wikipedia.org/wiki/Chat)). With a messenger team members can make each other aware of current information and especially share links (*hyperlinks* / *links*) for further collaboration (e.g. for finding appointments, collaborative writing, planning events, editing data, code, mind maps,). Due to the lack of a centralized offer so far, many teams at TU Dresden have been looking for their own solutions, some of which are privacy-critical or cannot be linked to other systems.
-
-In order to meet the demand for real-time communication, the open communication protocol Matrix was introduced in a pilot operation at the TU Dresden at the end of 2018, after a comparative analysis of several potential solution options, and presented to the CIO in April 2019. In autumn 2019, the pilot operation was transferred to regular operation. e.g. [digital](https://invidious.13ad.de/AtkA-sE-9uU) [teaching](https://invidious.13ad.de/jEvKdFTKSxU) (Videos by Prof. Lasch) with Matrix in addition to the [OPAL](https://bildungsportal.sachsen.de/opal) application.
+In recent years, the need for supporting digital tools for team collaboration has increased. A central tool is a team chat. According to Wikipedia, a chat refers to "electronic communication by means of written text in real time, usually via the Internet". ([Source](https://en.wikipedia.org/wiki/Chat)). With a messenger team members can make each other aware of current information and especially share links (*hyperlinks* / *links*) for further collaboration (e.g. for finding appointments, collaborative writing, planning events, editing data, code, mind maps,).
 
 ## Topics
 
@@ -39,18 +37,17 @@ In order to meet the demand for real-time communication, the open communication 
 
 ### Questions and Contact
 
-Please address general questions to the service desk envs.net:
+The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together:
 
-https://envs.net/impressum/
-
-The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the Matrix Support Room - here problems and solutions can be discussed together:
-
-[https://matrix.to/#/#home:envs.net](https://matrix.to/#/#home:envs.net)
-
-<span class="notice">
-For some anomalies you can try to empty the cache and reload everything: Settings > Help & About > Clear Cache and reload
-</span>
+[#envs:envs.net](https://matrix.to/#/#envs:envs.net)
 
 <span class="warning">
-Current maintenance is announced in the matrix room [/TODO ADD MATRIX ROOM HERE]).
+For some anomalies you can try to empty the cache and reload everything:
+</span>
+
+`Settings > Help & About > Clear Cache and reload`
+
+<span class="warning">
+Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and 
+[#status:envs.net](https://matrix.to/#/#status:envs.net).
 </span>
