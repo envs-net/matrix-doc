@@ -1,0 +1,9 @@
+site_name: matrix-help.envs.net
+site_description: envs.net | matrix help
+repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
+repo_url: https://git.envs.net/envs/matrix-doc
+
+theme: cyborg
+
+nav:
+- matrix at envs: index.md
