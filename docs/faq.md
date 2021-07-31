@@ -27,7 +27,7 @@ This is a collection of frequently asked questions and their answers. Some of th
 
 #### Messages not readable {#message-not-readable}
   * At least one verified session must be open at all times, the easiest way to do this is to set up the Desktop Client or Element on a smartphone. These programs can be closed and restarted without having to log in again. Otherwise, a verified Matrix session can be created in a private web browser window by logging into Matrix there and verifying this session from an existing one. This window can be closed after about five minutes. The keys are transferred to the other Matrix clients by the verification process. This creates a ghost session which is then always open. Then all other clients can be logged out. Otherwise messages which are received in the period without open matrix session cannot be read later. This is to be solved in the future by means of the function dehydrated devices.
-  * Has the [Secure Backup](/secure-backup.md) been set up properly?
+  * Has the [Secure Backup](/secure-backup.md/#secure-backup) been set up properly?
   * Messages remain unreadable when matrix sessions are created and then the web browser window is simply closed without logging out. Solution: only possible for new messages: read this documentation.
 
 ***
