@@ -15,25 +15,24 @@ In recent years, the need for supporting digital tools for team collaboration ha
 
 ## Topics
 
-* [Why Matrix and no other chat system?](why/why.md)
+* [Why Matrix and no other chat system?](why.md)
 * [How can Matrix be used? (registration and first steps)](first-steps.md)
-* [Recommendations for further important settings after first login](settings/_index.en.md)
-* [Installation of a client / program](clients/_index.en.md)
-    * [Browsersettings](clients/browser.en.md)
-* [Find people and send direct messages](messaging/_index.en.md)
-* [Use end-to-end encryption](encryption/_index.en.md)
-* [Create rooms and take responsibility](rooms/_index.en.md)
-    * [Sharing rooms and making them public](rooms/sharing.en.md)
-    * [Find rooms](rooms/find/_index.en.md)
-    * [Delete and leave rooms](rooms/delete/_index.en.md)
-* [Fine-tune notifications](notifications/_index.en.md)
-* [Use integrations, bridges, bots (e.g. Jitsi)](integrations/_index.en.md)
-* [More Clients](clients/more_clients.en.md)
-* [Using communities as room filters](communities/_index.en.md)
-* [Further development of Matrix](development/_index.en.md)
-* [Privacy policy](privacy/_index.en.md)
-* [Imprint](imprint/_index.en.md)
-* [Declaration of Accessibility](accessibility/_index.en.md)
+* [Recommendations for further important settings after first login](settings.md)
+* [Installation of a client / program](clients.md)
+    * [Browser settings](clients/browser.md)
+* [Find people and send direct messages](messaging.md)
+* [Use end-to-end encryption](encryption.md)
+* [Create rooms and take responsibility](rooms.md)
+    * [Sharing rooms and making them public](rooms/sharing.md)
+    * [Find rooms](rooms/find.md)
+    * [Delete and leave rooms](rooms/delete.md)
+* [Fine-tune notifications](notifications.md)
+* [Use integrations, bridges, bots (e.g. Jitsi)](integrations.md)
+* [More Clients](clients/more_clients.md)
+* [Using communities as room filters](communities.md)
+* [Further development of Matrix](development.md)
+* [Privacy policy](https://envs.net/privacy-policy/)
+* [Imprint](https://envs.net/impressum/)
 
 ### Questions and Contact
 
@@ -41,13 +40,13 @@ The ideal is to deal with problems in a transparent way, from which all others c
 
 [#envs:envs.net](https://matrix.to/#/#envs:envs.net)
 
-<span class="warning">
+<span class="note">
 For some anomalies you can try to empty the cache and reload everything:
 </span>
 
 `Settings > Help & About > Clear Cache and reload`
 
-<span class="warning">
+<span class="note">
 Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and 
 [#status:envs.net](https://matrix.to/#/#status:envs.net).
 </span>
