@@ -7,19 +7,33 @@ repo_url: https://git.envs.net/envs/matrix-doc
 theme: readthedocs
 
 nav:
-- Home: index.md
-- Why Matrix?: why.md
-- First steps: first-steps.md
-- Important settings: settings.md
-- Clients / Instalation: clients.md
-- Messages: messaging.md
-- Rooms: rooms.md
-- Notifications: notifications.md
-- Communities: communities.md
-- Encryption: encryption.md
-- Integrations: integrations.md
-- FAQ: faq.md
-- Development: development.md
+    - Home: index.md
+    - Why Matrix?: why.md
+    - First steps: first-steps.md
+    - Important settings: settings.md
+    - Clients / Installation:
+        - Overview: clients.md
+        - Element Web Browser: clients/browser.md
+        - Element Desktop: clients/browser.md
+        - Element Mobile: clients/mobile.md
+        - Install on Linux: clients/install_linux.md
+        - More clients: clients/more_clients.md
+    - Messages: 
+        - Overview: messaging.md
+        - Format messages: messaging/formatting.md
+        - Messages search: messaging/search.md
+    - Rooms: 
+        - Overview: rooms.md
+        - Create rooms: rooms/create.md
+        - Find rooms: rooms/find.md
+        - Delete rooms: rooms/delete.md
+        - Share rooms: rooms/sharing.md
+    - Encryption: encryption.md
+    - Notifications: notifications.md
+    - Integrations: integrations.md
+    - Communities: communities.md
+    - FAQ: faq.md
+    - Development: development.md
 
 markdown_extensions:
     - toc:
