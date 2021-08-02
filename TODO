@@ -5,6 +5,36 @@ TODO
 - Images need to be adjusted
 - links need to be fixed
 - subfolders need to be addressed correctly
+- create styles for the different tip and warning boxes
+
+# Create new images for
+
+Lists of pages for which new images needs to be created. Add commend of commit hash when images have been replaced. Move page to bottom when site has been checked and images had to be replaced or not.
+
+- index.md
+- why.md
+- first-steps.md
+- settings.md
+- clients.m
+- clients/browser.md
+- clients/browser.md
+- clients/mobile.md
+- clients/install_linux.md
+- clients/more_clients.md
+- messaging.md
+- messaging/formatting.md
+- messaging/search.md
+- rooms.md
+- rooms/create.md
+- rooms/find.md
+- rooms/delete.md
+- rooms/sharing.md
+- encryption.md
+- notifications.md
+- integrations.md
+- communities.md
+- faq.md
+- development.md
 
 
 Search and Replace:
