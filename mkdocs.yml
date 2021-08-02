@@ -28,12 +28,14 @@ nav:
         - Find rooms: rooms/find.md
         - Delete rooms: rooms/delete.md
         - Share rooms: rooms/sharing.md
-    - Encryption: encryption.md
-    - Notifications: notifications.md
-    - Integrations: integrations.md
-    - Communities: communities.md
-    - FAQ: faq.md
-    - Development: development.md
+    - Advanced:
+        - Encryption: encryption.md
+        - Notifications: notifications.md
+        - Integrations: integrations.md
+    - Contact and support:
+        - Communities: communities.md
+        - FAQ: faq.md
+        - Development: development.md
 
 markdown_extensions:
     - toc:
