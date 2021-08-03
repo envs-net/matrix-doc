@@ -1,8 +1,6 @@
 ---
 title: "More clients"
-date: 2020-07-02T21:22:27+02:00
-draft: false
-chapter: true
+date: 2021-08-03T20:30:00+02:00
 ---
 
 # More clients
