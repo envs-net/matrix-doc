@@ -18,11 +18,11 @@ nav:
         - Element Mobile: clients/mobile.md
         - Install on Linux: clients/install_linux.md
         - More clients: clients/more_clients.md
-    - Messages: 
+    - Messages:
         - Overview: messaging.md
         - Format messages: messaging/formatting.md
         - Messages search: messaging/search.md
-    - Rooms: 
+    - Rooms:
         - Overview: rooms.md
         - Create rooms: rooms/create.md
         - Find rooms: rooms/find.md
