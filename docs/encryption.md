@@ -37,7 +37,7 @@ The bar now shows the conversation person in detail. Here a key verification can
 
 This verification should be done with the contact person by comparison (e.g. verbally via telephone, in the same room or other medium). Since this is not always easy, the trust can also be expressed first of all (otherwise you will be asked again and again to carry out the verification) and carried out on occasion (e.g. at the next meeting).
 
-A detailed description of the topic can be found in this [video by Prof. Plikat](https://invidious.ggc-project.de/VOxfa6dqXSk) and [in this Matrix blog article](https://blog.riot.im/e2e-encryption-by-default-cross-signing-is-here).
+A detailed description of the topic can be found [in this Matrix blog article](https://blog.riot.im/e2e-encryption-by-default-cross-signing-is-here).
 
 The adjustment itself is done via emoji images or QR codes, which can look different depending on the device and icon pack. Also the translation of all interface elements into German is not 100% available.
 
