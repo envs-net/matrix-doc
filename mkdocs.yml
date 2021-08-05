@@ -49,11 +49,12 @@ nav:
         - Find rooms: rooms/find.md
         - Delete rooms: rooms/delete.md
         - Share rooms: rooms/sharing.md
+    - Notifications: notifications.md
+    - Encryption: encryption.md
     - Advanced:
-        - Encryption: encryption.md
-        - Notifications: notifications.md
+        - Spaces: spaces.md
         - Integrations: integrations.md
+    - FAQ: faq.md
     - Contact and support:
-        - Communities: communities.md
-        - FAQ: faq.md
+        - Impressum: impressum.md
         - Development: development.md
