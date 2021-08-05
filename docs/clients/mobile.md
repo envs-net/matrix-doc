@@ -1,14 +1,11 @@
 ---
 title: "Element Mobile"
-date: 2020-10-12T09:29:07+02:00
-draft: false
-chapter: true
-weight: 30
+date: 2021-08-03T20:30:00+02:00
 ---
 
 ## Element Mobile
 
-Downloads for: {{% button href="https://play.google.com/store/apps/details?id=im.vector.app" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://apps.apple.com/app/vector/id1083446067" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}} {{% button href="https://f-droid.org/packages/im.vector.app/" icon="fas fa-download" %}}Android (F-Driod){{% /button %}}
+Downloads for: [:fontawesome-solid-download: Android (Google Play)](https://play.google.com/store/apps/details?id=im.vector.app){ .md-button } [:fontawesome-solid-download: Android (F-Driod)](https://f-droid.org/packages/im.vector.app/){ .md-button } [:fontawesome-solid-download: iOS (iPhone/iPad)](https://apps.apple.com/app/vector/id1083446067){ .md-button }
 
 The following series of images shows screenshots of the setup of Android or iOS Element:
 

@@ -1,40 +1,38 @@
 ---
 title: "Clients / Installation"
-date: 2020-07-02T21:22:27+02:00
-draft: false
-chapter: true
-weight: 15
+date: 2021-08-03T20:30:00+02:00
 ---
 
 # Installation of a client / program
 
 The recommended client for using Matrix is called Element and can be used on different systems and devices:
-1. **Element Web:** [The TU Dresden browser web application](#web-app)
-1. **Element Desktop:** [Downloads for Linux/Windows/Mac](#desktop-app)
-1. **Element mobile:** [Android/iOS](#mobile-app)
 
-![Element page for client download](images/12_Element-Download.png)
+- **Element Web:** [The envs.net webclient](#element_web)
+- **Element Desktop:** [Downloads for Linux/Windows/Mac](#element_desktop)
+- **Element mobile:** [Android/iOS](#element_mobile)
 
-## Element Web {#web-app}
+![Element page for client download](/images/12_Element-Download.png)
 
-Web-App: {{% button href="https://matrix.tu-dresden.de" icon="fas fa-globe" %}}matrix.tu-dresden.de{{% /button %}}
+## Element Web
+
+Web-App: [:fontawesome-solid-globe: element.envs.net](https://element.envs.net){ .md-button }
 
 The easiest way is to open the Element Web application directly in a modern browser (e.g. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)).
 
-Further information can be found in the submenu ["Element Web (Browser)"]({{< ref "clients/browser" >}} "Element Web (Browser)").
+Further information can be found in the submenu ["Element Web (Browser)"](/clients/browser/).
 
-## Element Desktop {#desktop-app}
+## Element Desktop 
 
-Downloads for: {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} {{% button href="/clients/install_linux" icon="fas fa-download" %}}Linux{{% /button %}}
+Downloads for: [:fontawesome-solid-download: Windows](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe){ .md-button } [:fontawesome-solid-download: macOS](https://packages.riot.im/desktop/install/macos/Element.dmg){ .md-button } [:fontawesome-solid-download: Linux](/clients/install_linux){ .md-button }
 
 More recommendable than using a browser tab is the installation of the program Element on your own computer. Here you can keep the overview independently of the browser (however, you should also take care of the updates of the program).
 
-More information can be found in the submenu ["Element Desktop"]({{< ref "desktop.md" >}} "Element Desktop").
+More information can be found in the submenu ["Element Desktop"](/clients/desktop/).
 
-## Element Mobile {#mobile-app}
+## Element Mobile
 
-Downloads for: {{% button href="https://play.google.com/store/apps/details?id=im.vector.app" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://apps.apple.com/app/vector/id1083446067" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}} {{% button href="https://f-droid.org/packages/im.vector.app/" icon="fas fa-download" %}}Android (F-Driod){{% /button %}}
+Downloads for: [:fontawesome-solid-download: Android (Google Play)](https://play.google.com/store/apps/details?id=im.vector.app){ .md-button } [:fontawesome-solid-download: Android (F-Driod)](https://f-droid.org/packages/im.vector.app/){ .md-button } [:fontawesome-solid-download: iOS (iPhone/iPad)](https://apps.apple.com/app/vector/id1083446067){ .md-button }
 
 To have access to Matrix on the road, there is the possibility to install a mobile element client on the smartphone.
 
-Further information can be found in the submenu ["Element Mobile"]({{< ref "mobile.md" >}} "Element Mobile").
+Further information can be found in the submenu ["Element Mobile"](/clients/mobile/).

@@ -1,8 +1,8 @@
 ---
 title: "Install on Linux"
 date: 2021-08-03T20:30:00+02:00
-weight: 2
 ---
+
 # Install Element Desktop on Linux
 We recommend using the package manager of your System to install Element Desktop. The following commands will install element desktop. You can enter them on the command line.
 

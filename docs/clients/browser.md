@@ -1,49 +1,46 @@
 ---
 title: "Element Web (Browser)"
-date: 2020-07-15T16:46:07+02:00
-draft: false
-chapter: true
-weight: 10
+date: 2021-08-03T20:30:00+02:00
 ---
 
 # Using the Element webclient
-Start here: [https://matrix.tu-dresden.de](https://matrix.tu-dresden.de) 
+
+Start here: [https://element.envs.net](https://element.envs.net)
 
 ![Start page of Element Webclient with login button](/images/01_Welcome_en.png)
 
-No registration is necessary, the service can be used immediately by clicking on "Register" on the homepage [https://matrix.tu-dresden.de](https://matrix.tu-dresden.de).
+Registration is necessary, the service can be used by clicking on "Create Account" on the homepage [https://element.envs.net](https://element.envs.net).
 
-![Login window with request to enter ZIH login and password](/images/02_Login1_en.png)
+After the Registration you need to confirm your account. Check your mail Inbox.
 
-The drop-down menu "Log in with:" should be left at "User name". Then the following entries must be made:
+Now you can Login to your webclient.
 
-**Username: ZIH-Login** (only the ZIH-Login, no e-mail address!)
+![Login window with request to enter Username and Password](/images/02_Login1_en.png)
 
-**Password: ZIH password**
+The drop-down menu "Log in with:" should be left at "Username". Then the following entries must be made:
 
-An alternative login, e.g. using the e-mail address, is **NOT** possible during the first, initial login, only after the second login.
+**Username**
 
-After the first login there is also no e-mail / confirmation mail.
+**Password**
 
 Analogous to e-mail addresses, this results in matrix addresses with the following structure:
 
-@ZIH-Login:tu-dresden.de
+`@username:envs.net`
 
-{{% notice warning %}}
-If you want to start immediately with a [Matrix Client]({{< relref "../clients" >}}) instead of the above mentioned website (Element Web-App installed at TU Dresden), it is important to change the home server from the usually default matrix.org to https://matrix.tu-dresden.de (shown in the following three screenshots)
-{{% /notice %}}
+!!! note
+	If you want to start immediately with a [Matrix Client](/clients/) instead of the above mentioned website (Element Web-App hosted on envs.net), it is important to change the home server from the usually default `matrix.org to` [`https://matrix.envs.net`](https://matrix.envs.net) (shown in the following three screenshots)
 
 ![Change login page with focus on the homeserver Button](/images/02_Login2_en.png)
 
 1. click on change
 
-![input field to change the home server with the input matrix.tu-dresden.de](/images/02_Login3_en.png)
+![input field to change the home server with the input matrix.envs.net](/images/02_Login3_en.png)
 
 2. mark the preset home server address and remove it
 
 ![](/images/02_Login4_en.png)
 
-3. entry of the matrix home server address of the TU Dresden
+3. entry of the matrix home server address of envs.net
 
 ## Browser settings
 
@@ -55,11 +52,10 @@ Recommended are the browsers [Firefox](https://www.mozilla.org/de/firefox/new/),
 
 Many people use script blockers to protect themselves from [Tracking](https://tu-dresden.de/tu-dresden/newsportal/news/datenschutz-beim-website-tracking) and malware in the browser, for example with the addon [NoScript](https://addons.mozilla.org/de/firefox/addon/noscript/). Here you have to make the following settings (for the integration manager, e.g. Jitsi/Etherpad)
 
-![Browser plugin settings NoScript with tu-dresden.de and vector.im selected as trusted script sources](/images/10_Sicherheit2_en.png)
+![Browser plugin settings NoScript with envs.net selected as trusted script sources](/images/10_Sicherheit2_en.png)
 
 ### Cookies
 
 Do you also allow cookies from
 
-- tu-dresden.de
-- vector.im (for the integration manager)
+- envs.net
