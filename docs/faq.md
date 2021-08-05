@@ -33,6 +33,16 @@ Open Element `Settings` / `General` and press `Clear Cache`. This is a long stan
 
 ***
 
+## Matrix is slow or not working properly. I'm on matrix.org homeserver
+
+Matrix.org is used as default server in many clients. It is known to be slow occasionally. You should pick a server you like from list of [public servers](https://wiki.asra.gr/en:public_servers) and register there. If you already have joined many rooms, you can use [migration tool](https://ems.element.io/tools/account-migration) to "copy" your old account to the new account.
+ 
+After finished, remember to leave all rooms with your matrix.org account so it won't use any resources on the already overloaded server. You can login to both accounts simultaneously with private browser windows.
+
+This also helps decentralize Matrix which is important for the whole ecosystem. 
+
+***
+
 ## Messages not readable
   * At least one verified session must be open at all times, the easiest way to do this is to set up the Desktop Client or Element on a smartphone. These programs can be closed and restarted without having to log in again. Otherwise, a verified Matrix session can be created in a private web browser window by logging into Matrix there and verifying this session from an existing one. This window can be closed after about five minutes. The keys are transferred to the other Matrix clients by the verification process. This creates a ghost session which is then always open. Then all other clients can be logged out. Otherwise messages which are received in the period without open matrix session cannot be read later. This is to be solved in the future by means of the function dehydrated devices.
   * Has the [Secure Backup](/settings/#secure_backup) been set up properly?
