@@ -3,8 +3,26 @@ site_description: envs.net | matrix help
 repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
 repo_url: https://git.envs.net/envs/matrix-doc
 
-#theme: cyborg
-theme: readthedocs
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: black
+        accent: teal
+    logo: assets/favicon.ico
+    favicon: assets/favicon.ico
+    font:
+        text: Jetbrains Mono
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
 
 nav:
     - Home: index.md
@@ -14,7 +32,7 @@ nav:
     - Clients / Installation:
         - Overview: clients.md
         - Element Web Browser: clients/browser.md
-        - Element Desktop: clients/browser.md
+        - Element Desktop: clients/desktop.md
         - Element Mobile: clients/mobile.md
         - Install on Linux: clients/install_linux.md
         - More clients: clients/more_clients.md
@@ -36,9 +54,3 @@ nav:
         - Communities: communities.md
         - FAQ: faq.md
         - Development: development.md
-
-markdown_extensions:
-    - toc:
-        permalink: "#"
-        baselevel: 1
-        separator: "_"
