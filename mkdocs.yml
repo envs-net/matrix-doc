@@ -3,7 +3,57 @@ site_description: envs.net | matrix help
 repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
 repo_url: https://git.envs.net/envs/matrix-doc
 
-theme: cyborg
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: black
+        accent: teal
+    logo: assets/favicon.ico
+    favicon: assets/favicon.ico
+    font:
+        text: Jetbrains Mono
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
 
 nav:
-- matrix at envs: index.md
+    - Home: index.md
+    - Why Matrix?: why.md
+    - First steps: first-steps.md
+    - Important settings: settings.md
+    - Clients / Installation:
+        - Overview: clients.md
+        - Element Web Browser: clients/browser.md
+        - Element Desktop: clients/desktop.md
+        - Element Mobile: clients/mobile.md
+        - Install on Linux: clients/install_linux.md
+        - More clients: clients/more_clients.md
+    - Messages:
+        - Overview: messaging.md
+        - Format messages: messaging/formatting.md
+        - Messages search: messaging/search.md
+    - Rooms:
+        - Overview: rooms.md
+        - Create rooms: rooms/create.md
+        - Find rooms: rooms/find.md
+        - Delete rooms: rooms/delete.md
+        - Share rooms: rooms/sharing.md
+    - Notifications: notifications.md
+    - Encryption: encryption.md
+    - Advanced:
+        - Spaces: spaces.md
+        - Integrations: integrations.md
+    - FAQ: faq.md
+    - Impressum: impressum.md
+    - Development: development.md
