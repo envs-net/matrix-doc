@@ -1,9 +1,6 @@
 ---
+title: "why matrix"
 date: 2021-07-31T19:30:00+02:00
-weight: 1
-authors:
-  - cblte
-  - creme
 ---
 
 # Why matrix as a chat system?
