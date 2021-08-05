@@ -7,6 +7,32 @@ date: 2021-08-03T20:30:00+02:00
 
 This is a collection of frequently asked questions and their answers. Some of the answers are not yet written. In these cases please ask in the matrix room `#envs:envs.net`.
 
+## I'm confused about Matrix terminology
+
+It's a complex beast. Here is a short list of what is what:
+
+  * **Matrix** - Protocol and ecosystem around it. You cannot "run Matrix" or have an "account on Matrix". Often mixed with matrix.org.
+  * **Homeserver** - A Matrix server. There are lot of public ones or you can set up your own. You create user account on a homeserver you choose.
+  * **matrix.org** - One of many public Matrix homeservers where you can make an account. Often mixed with Matrix.
+  * **Element** - One of many Matrix client applications. Has different Web/Desktop/Android/iOS versions, so always specify which you use when asking for help.
+  * **Synapse** - One of many Matrix server implementations. You can run Synapse on your server if you want your own Matrix homeserver.
+  * **Space** - Group of rooms and other spaces. Can be used to organize rooms. A bit like Discord guilds or Slack workspaces, but more flexible.
+  * **Community** - old way of grouping rooms that was never fully implemented. Replaced by spaces.
+
+***
+
+## I'm running Element Android but notifications are unreliable. I installed it from F-Droid.
+
+Unfortunatly F-Droid version doesn't have the google push notification support and there is no open alternative. Better install from Google Play until a solution is found.
+
+***
+
+## I'm running Element Android and a message is stuck in the bottom of the screen. I can't get rid of it.
+
+Open Element `Settings` / `General` and press `Clear Cache`. This is a long standing bug, I hope it gets fixed one day.
+
+***
+
 ## Messages not readable
   * At least one verified session must be open at all times, the easiest way to do this is to set up the Desktop Client or Element on a smartphone. These programs can be closed and restarted without having to log in again. Otherwise, a verified Matrix session can be created in a private web browser window by logging into Matrix there and verifying this session from an existing one. This window can be closed after about five minutes. The keys are transferred to the other Matrix clients by the verification process. This creates a ghost session which is then always open. Then all other clients can be logged out. Otherwise messages which are received in the period without open matrix session cannot be read later. This is to be solved in the future by means of the function dehydrated devices.
   * Has the [Secure Backup](/settings/#secure_backup) been set up properly?
@@ -104,6 +130,34 @@ element-desktop --profile PROFILE_NAME
 So you can place several Element-Starters in your Autorstart, with different profile names, e.g. `--profile work` or `--profile private`. Unfortunately, both opened windows will appear with the same Icon in the Indicator-Applet. But therefore, a solution will upcome soon, for sure...
 
 Furthermore, there are other Matrix-Clients, that can handle more Matrix-Accounts per se, e.g. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion), or [Mirage](https://matrix.org/docs/projects/client/mirage).
+
+***
+
+## Create a tombstone event
+
+This will move all Matrix users in the old room to the new room.
+
+!!! note
+    Do NOT use `/upgraderoom` instead, as IRC bridge will follow it and FOOBAR the new room.
+ 
+Go back to the old room.
+
+* Type `/devtools`.
+* Select "Create custom event"
+* Press red "Event" button to change to "State event"
+* Set event type to `m.room.tombstone`
+* In event content enter (you'll need the target room_ID now):
+
+```
+{
+    "body": "This room has been replaced by new one",
+    "replacement_room": "!target_room_id:server.tld"
+}
+``` 
+
+Press `Send`
+
+Hooray! Users in the old room should now come to the new room. Your new room is also the latest version. If the IRC bridge automatically follows, you can kick it. Give admins and  mods to people you trust when they join.
 
 ***
 
