@@ -1,9 +1,6 @@
 ---
 title: "Message search"
-date: 2021-03-02T11:42:35+01:00
-draft: false
-chapter: true
-weight: 40
+date: 2021-08-03T20:30:00+02:00
 ---
 
 ## Message search
@@ -17,8 +14,7 @@ button.
 
 Searching for messages is possible in unencrypted rooms without any problem, since Element
 has access to all messages. The situation is different in encrypted rooms.  This function
-is only possible using the desktop client (see [Clients / Installation]({{< relref
-"clients" >}})), because the messages must be cached for the search. The message search
+is only possible using the desktop client (see [Clients / Installation](/clients/)), because the messages must be cached for the search. The message search
 must be explicitly enabled under `Settings` -> `Security & Privacy` -> `Message search`.
 Afterwards, searching is also possible in encrypted rooms.
 
