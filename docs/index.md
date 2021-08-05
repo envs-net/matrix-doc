@@ -9,6 +9,18 @@ authors:
 # [m] ~ Matrix at envs.net
 Matrix is a free and open, secure, decentralized protocol for real-time communication, also known by the name of one of its clients, Element.
 
+***
+
+basic information about our Homeserver instance:<br />
+[https://envs.net/chat/matrix/](https://envs.net/chat/matrix/)
+
+***server admin:*** [`@creme:envs.net`](https://matrix.to/#/@creme:envs.net)<br />
+***space:*** [`#space:envs.net`](https://matrix.to/#/#space:envs.net)<br />
+***channel:*** [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)<br />
+***abuse management room:*** [`#abuse:envs.net`](https://matrix.to/#/#abuse:envs.net)
+
+***
+
 <object data="images/matrix_interactive_en.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
 In recent years, the need for supporting digital tools for team collaboration has increased. A central tool is a team chat. According to Wikipedia, a chat refers to "electronic communication by means of written text in real time, usually via the Internet" ([Source](https://en.wikipedia.org/wiki/Chat)). With a messenger team members can make each other aware of current information and especially share links (*hyperlinks* / *links*) for further collaboration (e.g. for finding appointments, collaborative writing, planning events, editing data, code, mind maps,).
@@ -38,6 +50,8 @@ In recent years, the need for supporting digital tools for team collaboration ha
 
 The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together:<br />
 [#envs:envs.net](https://matrix.to/#/#envs:envs.net)
+
+E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
 !!! tip
     For some anomalies you can try to empty the cache and reload everything:<br />

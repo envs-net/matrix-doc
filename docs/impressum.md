@@ -13,4 +13,6 @@ Sven Kinne ([~creme](https://envs.net/~creme/))<br />
 Rudolfstraße 13<br />
 D-01097 Dresden
 
+E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
+
 ## [privacy policy](https://envs.net/privacy-policy/)
