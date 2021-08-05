@@ -9,6 +9,6 @@ Conversations are organized in matrix in rooms. 1:1 conversations are also rooms
 Category is about 
 
 1. [create rooms](/rooms/create/)
-2. [find rooms]({/rooms/find/)
+2. [find rooms](/rooms/find/)
 3. [delete rooms](/rooms/delete/)
 4. [share rooms](/rooms/sharing/)
