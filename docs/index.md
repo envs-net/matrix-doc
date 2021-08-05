@@ -6,7 +6,7 @@ authors:
     - creme
 ---
 
-# Matrix at envs.net
+# [m] ~ Matrix at envs.net
 Matrix is a free and open, secure, decentralized protocol for real-time communication, also known by the name of one of its clients, Element.
 
 <object data="images/matrix_interactive_en.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
@@ -29,10 +29,10 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [Fine-tune notifications](notifications.md)
 * [Use integrations, bridges, bots (e.g. Jitsi)](integrations.md)
 * [More Clients](clients/more_clients.md)
-* [Using communities as room filters](communities.md)
+* [Using spaces as room filters](spaces.md)
 * [Further development of Matrix](development.md)
 * [Privacy policy](https://envs.net/privacy-policy/)
-* [Imprint](https://envs.net/impressum/)
+* [Impressum](impressum.md)
 
 ### Questions and Contact
 
@@ -42,7 +42,6 @@ The ideal is to deal with problems in a transparent way, from which all others c
 !!! tip
     For some anomalies you can try to empty the cache and reload everything:<br />
     `Settings > Help & About > Clear Cache and reload`
-
 
 !!! note
     Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and 
