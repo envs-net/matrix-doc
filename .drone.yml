@@ -21,6 +21,6 @@ trigger:
 steps:
     - name: deploy
       commands:
-        - cd /var/www/docs/matric-doc
+        - cd /var/www/docs/matrix-doc
         - sudo -Hu www-data git pull origin master
         - sudo -Hu www-data mkdocs build
