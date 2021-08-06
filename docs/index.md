@@ -48,15 +48,15 @@ In recent years, the need for supporting digital tools for team collaboration ha
 
 ### Questions and Contact
 
-The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together:<br />
-[#envs:envs.net](https://matrix.to/#/#envs:envs.net)
+The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together: [#envs:envs.net](https://matrix.to/#/#envs:envs.net)
 
 E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
 !!! tip
-    For some anomalies you can try to empty the cache and reload everything:<br />
+
+    For some anomalies you can try to empty the cache and reload everything:  
     `Settings > Help & About > Clear Cache and reload`
 
 !!! note
-    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and 
-    [#status:envs.net](https://matrix.to/#/#status:envs.net).
+
+    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
