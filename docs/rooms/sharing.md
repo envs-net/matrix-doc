@@ -21,15 +21,15 @@ Room addresses can either be globally published addresses (findable by users in 
 
 For the more common case of the desired local address, click on "Show more" under Local Addresses in the room settings under the General tab:
 
-![Room settings with the show more selected](/images/01_Sharing_en.png)
+![Room settings with the show more selected](/images/01_Sharing_en.png "Room settings with the show more selected")
 
 Afterwards a recognizable name of this room link can be assigned in the "Room alias" line (no spaces are allowed!):
 
-![Room settings with the local addresses selected](/images/02_Sharing_en.png)
+![Room settings with the local addresses selected](/images/02_Sharing_en.png "Room settings with the local addresses selected")
 
 You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the TU Dresden, this can be done by the following. 
 
-![room settings with the public room address selected](/images/03_Sharing_en.png)
+![Room settings with the public room address selected](/images/03_Sharing_en.png "Room settings with the public room address selected")
 
 The room address then has the following structure
 
@@ -47,7 +47,7 @@ into the chat line. If you are a member of that room, you can confirm the auto-c
 
 The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered. 
 
-![share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png)
+![Share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png "Share icon marked in the chat view of the room")
 
 ```
 https://matrix.to/#/#room-address-name:envs.net?via=envs.net
