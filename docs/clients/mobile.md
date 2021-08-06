@@ -9,6 +9,6 @@ Downloads for: [:fontawesome-solid-download: Android (Google Play)](https://play
 
 The following series of images shows screenshots of the setup of Android or iOS Element:
 
-![Screenshot of the login procedure under Android/iOS](/images/15_Android1_en.png)
+![Screenshot of the login procedure under Android/iOS](/images/15_Android1_en.png "Screenshot of the login procedure under Android/iOS")
 
-![Screenshot of the Android client element after successful login](/images/15_Android2_en.png)
+![Screenshot of the Android client element after successful login](/images/15_Android2_en.png "Screenshot of the Android client element after successful login")
