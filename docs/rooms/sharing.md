@@ -3,7 +3,7 @@ title: "Share rooms"
 date: 2021-08-03T20:30:00+02:00
 ---
 
-# Share rooms and make them public
+## Share rooms and make them public
 
 !!! note
     The share icon in the upper right corner of each room also provides a link, a QR code and various social networks. The link, however, leads to [https://matrix.to/](https://matrix.to/) from where you can access the room via an Element web app from [https://element.io](https://element.io). In order to share a room within envs.net please use the methode explained in this artice.
