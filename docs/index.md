@@ -17,7 +17,7 @@ basic information about our Homeserver instance:
 ***server admin:*** [`@creme:envs.net`](https://matrix.to/#/@creme:envs.net)  
 ***space:*** [`#space:envs.net`](https://matrix.to/#/#space:envs.net)  
 ***channel:*** [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)  
-***abuse management room:*** [`#abuse:envs.net`](https://matrix.to/#/#abuse:envs.net)
+***abuse management:*** [`#abuse:envs.net`](https://matrix.to/#/#abuse:envs.net)
 
 ***
 
@@ -60,4 +60,4 @@ E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
     `Settings > Help & About > Clear Cache and reload`
 
 !!! note
-    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
+    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) (unfederated) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
