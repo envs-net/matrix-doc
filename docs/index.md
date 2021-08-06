@@ -49,11 +49,23 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [Privacy policy](https://envs.net/privacy-policy/)
 * [Impressum](impressum.md)
 
-### Questions and Contact
+## Questions and Contact
 
-The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together: [#envs:envs.net](https://matrix.to/#/#envs:envs.net)
+The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together:
 
-E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
+* [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net) - official channel for envs.net
+* [`#envs_german:envs.net`](https://matrix.to/#/#envs:envs.net) - german speaking project channel
+
+***
+
+**We have also two autojoin room's on our instance:**
+
+* [`#home:envs.net`](https://matrix.to/#/#home:envs.net) - welcome room ~ for local matrix instance member only (unfederated)
+* [`#lounge:envs.net`](https://matrix.to/#/#lounge:envs.net) - hang out in the #lounge | ~ offtopic chat ~
+
+***
+
+**E-mail:** [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
 !!! tip
     For some anomalies you can try to empty the cache and reload everything:  
