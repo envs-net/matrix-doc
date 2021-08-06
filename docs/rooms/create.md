@@ -8,7 +8,7 @@ date: 2021-08-03T20:30:00+02:00
 New rooms are created using the + in the left bar in the category Rooms.
 
 ![Marking of the room add button](/images/01_Rooms_en.png "Marking of the room add button")
-Then the room name must be assigned. You can also optionally assign a theme (which can be adapted more often later). Optionally, the room can be made publicly accessible (this is not the default setting). With an additional click on "Show more settings" it can be prevented that Matrix users from outside the TU Dresden home server (Homeserver) can enter the room. By default, all new rooms (just like all new 1:1 calls) have [end-to-end encryption](/encryption/) set up. If this is not desired (e.g. because verification of the participants becomes very impractical in very large rooms) you can use the slider before creating the room to not activate end-to-end encryption.
+Then the room name must be assigned. You can also optionally assign a theme (which can be adapted more often later). Optionally, the room can be made publicly accessible (this is not the default setting). With an additional click on "Show more settings" it can be prevented that Matrix users from outside the `envs.net` home server (Homeserver) can enter the room. By default, all new rooms (just like all new 1:1 calls) have [end-to-end encryption](/encryption/) set up. If this is not desired (e.g. because verification of the participants becomes very impractical in very large rooms) you can use the slider before creating the room to not activate end-to-end encryption.
 
 ![Input menu for the room name](/images/02_Rooms_en.png "Input menu for the room name")
 
@@ -43,8 +43,7 @@ A "call waiting" to closed rooms is not yet possible. The closest workaround is 
 	As the room administrator, you have **responsibility** for the content shared in the room (e.g. false messages, hate mail, etc.). Include other people in this responsibility by assigning roles in the right bar (after clicking on the person icon) via the "Permission Level" drop-down menu, e.g. Administrator:inside or Moderator:inside.
 
 ![Drop-down menu for the assignment of rights for room participants (image row 1)](/images/06_Users-Permissions-1_en.png "Drop-down menu for the assignment of rights for room participants (image row 1)")
+
 ![Drop-down menu for the assignment of rights for room participants (image series 2)](/images/06_Users-Permissions-2_en.png "Drop-down menu for the assignment of rights for room participants (image series 2)")
 
 You can also use the admin tools to react to any misbehavior (mute, kick, ban, delete recent messages).
-
-
