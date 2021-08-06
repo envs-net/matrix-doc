@@ -21,7 +21,10 @@ basic information about our Homeserver instance:
 
 ***
 
+<figure>
 <object data="images/matrix_interactive_en.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
+<caption><i>Interactive Image - <a href="images/matrix_interactive_en.svg" target="_blank">click here for the fullscreen version</a></i></caption>
+</figure>
 
 In recent years, the need for supporting digital tools for team collaboration has increased. A central tool is a team chat. According to Wikipedia, a chat refers to "electronic communication by means of written text in real time, usually via the Internet" ([Source](https://en.wikipedia.org/wiki/Chat)). With a messenger team members can make each other aware of current information and especially share links (*hyperlinks* / *links*) for further collaboration (e.g. for finding appointments, collaborative writing, planning events, editing data, code, mind maps,).
 
