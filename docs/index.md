@@ -58,5 +58,5 @@ E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
     `Settings > Help & About > Clear Cache and reload`
 
 !!! note
-    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) and 
+    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) (unfederated) and 
     [#status:envs.net](https://matrix.to/#/#status:envs.net).
