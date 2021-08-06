@@ -30,6 +30,8 @@ The drop-down menu "Log in with:" should be left at "Username". Then the followi
 
 **Username**
 
+Enter here your username from envs.net starting with a `@` sign followed by your username and the text `:envs.net`. For the user `isabell` it should like `@isabell:envs.net`.
+
 **Password**
 
 An alternative login, e.g. using the e-mail address, is **NOT** possible during the first, initial login, only after the second login.
