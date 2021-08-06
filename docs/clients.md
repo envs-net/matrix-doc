@@ -11,7 +11,7 @@ The recommended client for using Matrix is called Element and can be used on dif
 - **Element Desktop:** [Downloads for Linux/Windows/Mac](#element_desktop)
 - **Element mobile:** [Android/iOS](#element_mobile)
 
-![Element page for client download](/images/12_Element-Download.png)
+![Element page for client download](/images/12_Element-Download.png "Element page for client download")
 
 ## Element Web
 

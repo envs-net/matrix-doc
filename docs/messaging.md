@@ -7,7 +7,7 @@ date: 2021-08-03T20:30:00+02:00
 
 To write to individual persons and thus create a 1:1 chat, first click on the + in the category "Direct messages":
 
-![Click on the Start Chat button](/images/01_Start-Chat_en.png)
+![Click on the Start Chat button](/images/01_Start-Chat_en.png "Click on the Start Chat button")
 
 Now type in the search field and start typing the email address of the person you want to find:
 
@@ -26,7 +26,7 @@ An invitation e-mail is not sent by Matrix.
 
 In the search result, click on the target person and then on Go:
 
-![A search result for the search query entered](/images/04_Found-and-Go_en.png)
+![A search result for the search query entered](/images/04_Found-and-Go_en.png "A search result for the search query entered")
 
 The conversation opens, which can begin after the connected person accepts the invitation [end-to-end encrypted](/encryption/) (meanwhile standard). The connection to the server at envs.net is of course also transport-encrypted. If you explicitly do not want end-to-end encryption for a special reason, an unencrypted room and invite the conversation partners to it.
 

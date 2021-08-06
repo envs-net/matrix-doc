@@ -11,7 +11,7 @@ Spaces can only be created for yourself or for others (if you invite them into a
 
 Existing rooms can be assigned to a space in the space settings.
 
-![Screenshot of the selection of the current community](images/20_spaces.webp)
+![Screenshot of the selection of the current community](images/20_spaces.webp "Screenshot of the selection of the current community")
 
 A space created with the + button can be drag'n'dropped from the spaces avatar (little picture) onto the sidebar.
 
