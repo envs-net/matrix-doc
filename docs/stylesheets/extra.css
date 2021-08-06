@@ -15,3 +15,7 @@ code{
 .md-typeset a:hover {
     border-bottom: dotted 1px;
 }
+
+.md-button {
+    background-color: #10A0A0;
+}
