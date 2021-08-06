@@ -33,13 +33,8 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 ![Change login page with focus on the homeserver Button](/images/02_Login2_en.png)
 
 1. click on change
-
 ![input field to change the home server with the input matrix.envs.net](/images/02_Login3_en.png)
-
 2. mark the preset home server address and remove it
-
-![](/images/02_Login4_en.png)
-
 3. entry of the matrix home server address of envs.net
 
 ## Browser settings
