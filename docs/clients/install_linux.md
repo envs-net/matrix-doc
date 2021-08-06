@@ -32,3 +32,8 @@ sudo pacman -Sy element-desktop
 ```sh
 nix-env -iA nixos.element-desktop
 ```
+
+### macOS homebrew
+```sh
+brew install element
+```
