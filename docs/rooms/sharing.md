@@ -45,18 +45,16 @@ into the chat line. If you are a member of that room, you can confirm the auto-c
 
 **Suggestion Nr. 2 for sharing a room address:**
 
-The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered. 
+The share icon at the top right of each room also offers a `matrix.to`-link, as well as a QR code and various social networks. The `matrix.to`-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered.
 
 ![Share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png "Share icon marked in the chat view of the room")
 
-```
-https://matrix.to/#/#room-address-name:envs.net?via=envs.net
-```
+`https://matrix.to/#/#room-address-name:envs.net?via=envs.net`
 
 **Suggestion Nr. 3 for sharing a room address:**
 
 Furthermore, you also can create a hyperlink to the room, which you have to construct in this way:
 
-https://matrix.envs.net/#/room/#roomaddress:envs.net
+`https://matrix.envs.net/#/room/#roomaddress:envs.net`
 
 resulting in an internet address (URL) which can be easily distributed to the public or target group. BUT, **this link opens only an Element Web in the browser** of the people, not in an installed Element Desktop. More universal (espc. for the large group of people with Element Desktop), and more advised by the Matrix-Admin-Team, is the above mentioned method with the matrix.to-Link.
