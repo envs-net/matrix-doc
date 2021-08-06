@@ -11,12 +11,12 @@ Matrix is a free and open, secure, decentralized protocol for real-time communic
 
 ***
 
-basic information about our Homeserver instance:<br />
+basic information about our Homeserver instance:  
 [https://envs.net/chat/matrix/](https://envs.net/chat/matrix/)
 
-***server admin:*** [`@creme:envs.net`](https://matrix.to/#/@creme:envs.net)<br />
-***space:*** [`#space:envs.net`](https://matrix.to/#/#space:envs.net)<br />
-***channel:*** [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)<br />
+***server admin:*** [`@creme:envs.net`](https://matrix.to/#/@creme:envs.net)  
+***space:*** [`#space:envs.net`](https://matrix.to/#/#space:envs.net)  
+***channel:*** [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)  
 ***abuse management room:*** [`#abuse:envs.net`](https://matrix.to/#/#abuse:envs.net)
 
 ***
