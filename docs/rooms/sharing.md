@@ -50,7 +50,7 @@ The share icon at the top right of each room also offers a matrix.to-link, as we
 ![share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png)
 
 ```
-https://matrix.to/#/#Room-address-name:tu-dresden.de?via=tu-dresden.de
+https://matrix.to/#/#room-address-name:envs.net?via=envs.net
 ```
 
 **Suggestion Nr. 3 for sharing a room address:**
