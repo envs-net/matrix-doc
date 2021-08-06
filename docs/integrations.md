@@ -7,7 +7,7 @@ date: 2021-08-03T20:30:00+02:00
 
 Integrations/Widgets can be managed via the room information in the upper right corner.
 
-![Add integration button](/images/01_Widgets_en.png)
+![Add integration button](/images/01_Widgets_en.png "Add integration button")
 
 Here, for example, an etherpad, a jitsi video conference, an RSS bot, etc. can be integrated, i.e. services that are located and run on other servers. Therefore, when using integrations, the JavaScript activity of vector.im (for the integration manager) and other servers (e.g. in the Firefox addon NoScript) must be allowed. Since the widgets are often too small to use the services in their full functionality, widgets can often be opened large in new browser tabs.
 

@@ -23,10 +23,10 @@ Here experiences must be made if necessary, which help with the estimate, which 
 
 See [recommendations for first steps after first login](/settings/#other_important_settings)
 
-![screenshot of the menu to select when to send notifications](/images/notifications2.webp)
+![Screenshot of the menu to select when to send notifications](/images/notifications2.webp "Screenshot of the menu to select when to send notifications")
 
 ### Roomwise settings
 
 When the mouse is moved over individual rooms in the room list, 3 grey dots appear on the right-hand edge for each room. After clicking on them, you can set up the notifications for each room individually.
 
-![Screenshot of the notification options in the room settings](/images/notification-rooms.webp)
+![Screenshot of the notification options in the room settings](/images/notification-rooms.webp "Screenshot of the notification options in the room settings")

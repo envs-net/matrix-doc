@@ -14,15 +14,15 @@ Downloads for: [:fontawesome-solid-download: Windows](https://packages.riot.im/d
 
 After a desktop installation, make sure to use the existing account. Here the example of Element:
 
-![Selected login button in the element matrix client](/images/01_Login_en.png)
+![Selected login button in the element matrix client](/images/01_Login_en.png "Selected login button in the element matrix client")
 
 This is done by clicking on **Change**. Then you will not accidentally end up on the wrong server...
 
-![Change login page with focus on the homeserver button](/images/02_Change-Homeserver_en.png)
+![Change login page with focus on the homeserver button](/images/02_Change-Homeserver_en.png "Change login page with focus on the homeserver button")
 
 Now you can manually specify the home server: `matrix.envs.net`
 
-![Input field to change the home server with the input matrix.envs.net](/images/03_Set-Homeserver_en.png)
+![Input field to change the home server with the input matrix.envs.net](/images/03_Set-Homeserver_en.png "Input field to change the home server with the input matrix.envs.net")
 
 Afterwards the login with username and password must be carried out:
 
@@ -42,7 +42,7 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 
 `@username:envs.net`
 
-![Login window with request to enter Username and Password](/images/04_Username_en.png)
+![Login window with request to enter Username and Password](/images/04_Username_en.png "Login window with request to enter Username and Password")
 
 ## Convenient use of end-to-end encryption (E2EE)
 
@@ -51,29 +51,31 @@ Matrix not only encrypts transports to and from the home server of envs.net but 
 !!! danger
     It is highly recommended to use this key backup (with a secure security phrase which is **NOT** your login password)!
    
-![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png)
-![Prompt to enter a password for the key backup](/images/12_Enter-Key_en.png)
-Alternatively, instead of the security phrase, you can also have a security key generated that serves the same purpose as the security phrase. Furthermore, the security key is generated in addition to the security phrase and should be kept safe and retrievable as an emergency key (e.g. save it as .txt file AND print it out) 
-![Display of the security key to write or save away](/images/13_Present-Key_en.png) 
+![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png "Prompt to generate the security key or enter a security phrase")
+
+![Prompt to enter a password for the key backup](/images/12_Enter-Key_en.png "Prompt to enter a password for the key backup")
+Alternatively, instead of the security phrase, you can also have a security key generated that serves the same purpose as the security phrase. Furthermore, the security key is generated in addition to the security phrase and should be kept safe and retrievable as an emergency key (e.g. save it as .txt file AND print it out)
+
+![Display of the security key to write or save away](/images/13_Present-Key_en.png "Display of the security key to write or save away")
 
 [Other important settings](/settings/) may improve your Matrix experience!
 
 
 ## Requests to setup the key backup
 
-![Screenshot of the prompt to enter a security phrase](/images/01_Restore-Session_en.png)
+![Screenshot of the prompt to enter a security phrase](/images/01_Restore-Session_en.png "Screenshot of the prompt to enter a security phrase")
 
 If you skipped the request to setup the key backup, the next screen would look like this:
 
-![Confirmation of skipping the input of a security phrase](/images/03_Cancel-Restore_en.png)
+![Confirmation of skipping the input of a security phrase](/images/03_Cancel-Restore_en.png "Confirmation of skipping the input of a security phrase")
 
 Key protection is highly recommended for worry-free end-to-end encryption. For this reason, a smaller tooltip will prompt you to set up the encryption even after you skip further:
-   
-![Chat view showing a tooltip to set up encryption. Marking the confirm field](/images/04_Notification_en.png)
+
+![Chat view showing a tooltip to set up encryption. Marking the confirm field](/images/04_Notification_en.png "Chat view showing a tooltip to set up encryption. Marking the confirm field")
 
 If you omit this here as well, you will get a last warning if you log off consciously. If no key backup is set up at the latest, encrypted calls that may have already taken place cannot be accessed later. If the tab is closed, this also corresponds to a logout.
-   
-![Query if messages should be encrypted](/images/05_Logout-Notify_en.png)
+
+![Query if messages should be encrypted](/images/05_Logout-Notify_en.png "Query if messages should be encrypted")
 
 Avoid this situation by setting up a key backup!
 
