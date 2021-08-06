@@ -27,7 +27,7 @@ Afterwards a recognizable name of this room link can be assigned in the "Room al
 
 ![Room settings with the local addresses selected](/images/02_Sharing_en.png "Room settings with the local addresses selected")
 
-You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the TU Dresden, this can be done by the following. 
+You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the `envs.net`, this can be done by the following.
 
 ![Room settings with the public room address selected](/images/03_Sharing_en.png "Room settings with the public room address selected")
 
