@@ -3,7 +3,7 @@ title: "Share rooms"
 date: 2021-08-03T20:30:00+02:00
 ---
 
-# Share rooms and make them public
+## Share rooms and make them public
 
 !!! note
     The share icon in the upper right corner of each room also provides a link, a QR code and various social networks. The link, however, leads to [https://matrix.to/](https://matrix.to/) from where you can access the room via an Element web app from [https://element.io](https://element.io). In order to share a room within envs.net please use the methode explained in this artice.
@@ -21,15 +21,15 @@ Room addresses can either be globally published addresses (findable by users in 
 
 For the more common case of the desired local address, click on "Show more" under Local Addresses in the room settings under the General tab:
 
-![Room settings with the show more selected](/images/01_Sharing_en.png)
+![Room settings with the show more selected](/images/01_Sharing_en.png "Room settings with the show more selected")
 
 Afterwards a recognizable name of this room link can be assigned in the "Room alias" line (no spaces are allowed!):
 
-![Room settings with the local addresses selected](/images/02_Sharing_en.png)
+![Room settings with the local addresses selected](/images/02_Sharing_en.png "Room settings with the local addresses selected")
 
-You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the TU Dresden, this can be done by the following. 
+You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the `envs.net`, this can be done by the following.
 
-![room settings with the public room address selected](/images/03_Sharing_en.png)
+![Room settings with the public room address selected](/images/03_Sharing_en.png "Room settings with the public room address selected")
 
 The room address then has the following structure
 
@@ -45,18 +45,16 @@ into the chat line. If you are a member of that room, you can confirm the auto-c
 
 **Suggestion Nr. 2 for sharing a room address:**
 
-The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered. 
+The share icon at the top right of each room also offers a `matrix.to`-link, as well as a QR code and various social networks. The `matrix.to`-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered.
 
-![share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png)
+![Share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png "Share icon marked in the chat view of the room")
 
-```
-https://matrix.to/#/#room-address-name:envs.net?via=envs.net
-```
+`https://matrix.to/#/#room-address-name:envs.net?via=envs.net`
 
 **Suggestion Nr. 3 for sharing a room address:**
 
 Furthermore, you also can create a hyperlink to the room, which you have to construct in this way:
 
-https://matrix.envs.net/#/room/#roomaddress:envs.net
+`https://matrix.envs.net/#/room/#roomaddress:envs.net`
 
 resulting in an internet address (URL) which can be easily distributed to the public or target group. BUT, **this link opens only an Element Web in the browser** of the people, not in an installed Element Desktop. More universal (espc. for the large group of people with Element Desktop), and more advised by the Matrix-Admin-Team, is the above mentioned method with the matrix.to-Link.
