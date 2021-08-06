@@ -9,7 +9,7 @@ Currently envs.net does not pay for the use of the source code. The Matrix-Admin
 
 Matrix is an open standard, the details of interoperable communication using the matrix set of HTTP-APIs are freely published. Matrix is also open source, which means that the source code of the reference servers, clients and services has been released to the public under the Apache v2 license to encourage everyone to run their own servers and clients.
 
-![free software banner](images/free-software-likes-you-and-your-freedom.webp "free software banner")
+![free software banner](/images/free-software-likes-you-and-your-freedom.webp "free software banner")
 
 Since it is free software, improvement requests can be converted into direct programming jobs.
 

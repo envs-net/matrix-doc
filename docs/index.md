@@ -23,7 +23,7 @@ basic information about our Homeserver instance:
 
 <figure>
 <object data="images/matrix_interactive_en.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
-<caption><i>Interactive Image - <a href="images/matrix_interactive_en.svg" target="_blank">click here for the fullscreen version</a></i></caption>
+<caption><i>Interactive Image - <a href="/images/matrix_interactive_en.svg" target="_blank">click here for the fullscreen version</a></i></caption>
 </figure>
 
 In recent years, the need for supporting digital tools for team collaboration has increased. A central tool is a team chat. According to Wikipedia, a chat refers to "electronic communication by means of written text in real time, usually via the Internet" ([Source](https://en.wikipedia.org/wiki/Chat)). With a messenger team members can make each other aware of current information and especially share links (*hyperlinks* / *links*) for further collaboration (e.g. for finding appointments, collaborative writing, planning events, editing data, code, mind maps,).
@@ -34,17 +34,17 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [How can Matrix be used? (registration and first steps)](first-steps.md)
 * [Recommendations for further important settings after first login](settings.md)
 * [Installation of a client / program](clients.md)
-    * [Browser settings](clients/browser.md)
+    * [Browser settings](/clients/browser.md)
 * [Find people and send direct messages](messaging.md)
 * [Use end-to-end encryption](encryption.md)
 * [Create rooms and take responsibility](rooms.md)
-    * [Sharing rooms and making them public](rooms/sharing.md)
-    * [Find rooms](rooms/find.md)
-    * [Delete and leave rooms](rooms/delete.md)
+    * [Sharing rooms and making them public](/rooms/sharing.md)
+    * [Find rooms](/rooms/find.md)
+    * [Delete and leave rooms](/rooms/delete.md)
 * [Fine-tune notifications](notifications.md)
-* [Use integrations, bridges, bots (e.g. Jitsi)](integrations.md)
-* [More Clients](clients/more_clients.md)
-* [Using spaces as room filters](spaces.md)
+* [Use integrations, bridges, bots (e.g. Jitsi)](/advanced/integrations.md)
+* [More Clients](/clients/more_clients.md)
+* [Using spaces as room filters](/advanced/spaces.md)
 * [Further development of Matrix](development.md)
 * [Privacy policy](https://envs.net/privacy-policy/)
 * [Impressum](impressum.md)

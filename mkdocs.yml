@@ -52,8 +52,8 @@ nav:
     - Notifications: notifications.md
     - Encryption: encryption.md
     - Advanced:
-        - Spaces: spaces.md
-        - Integrations: integrations.md
+        - Spaces: advanced/spaces.md
+        - Integrations: advanced/integrations.md
     - FAQ: faq.md
     - Impressum: impressum.md
     - Development: development.md
