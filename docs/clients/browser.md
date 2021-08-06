@@ -21,6 +21,8 @@ The drop-down menu "Log in with:" should be left at "Username". Then the followi
 
 **Username**
 
+Enter here your username from envs.net starting with a `@` sign followed by your username and the text `:envs.net`. For the user `isabell` it should like `@isabell:envs.net`.
+
 **Password**
 
 Analogous to e-mail addresses, this results in matrix addresses with the following structure:
