@@ -30,7 +30,8 @@ feel free to use our bot's in your room!
 [XKCD](#xkcd) |
 [CommitStrip](#commitstrip) |
 [Cat Disruptor](#cat_disruptor) |
-[echobot [envs]](#echobot_envs)
+[echobot [envs]](#echobot_envs) |
+[media Bot](#media_bot)
 
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
@@ -358,3 +359,9 @@ A simple Bot that echoes pings and other stuff.
 
 - `!ping` - Reply with "Pong!" and the time it took for the message to reach the bot.
 - `!echo <message>` - Reply with the given message
+
+## Media Bot
+
+A simple Bot that posts MXC URIs of uploaded images.
+
+**name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)
