@@ -57,7 +57,7 @@ nav:
         - Integrations: advanced/integrations.md
         - Abuse Management: advanced/abuse_management.md
         - IRC Bridges: advanced/irc_bridge.md
-        - Bot's: advanced/local_bots.md
+        - Bot's: advanced/bots.md
     - FAQ: faq.md
     - Impressum: impressum.md
     - Development: development.md
