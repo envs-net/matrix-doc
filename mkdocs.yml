@@ -54,6 +54,7 @@ nav:
     - Advanced:
         - Spaces: advanced/spaces.md
         - Integrations: advanced/integrations.md
+        - Bot's: advanced/local_bots.md
     - FAQ: faq.md
     - Impressum: impressum.md
     - Development: development.md
