@@ -49,11 +49,15 @@ nav:
         - Find rooms: rooms/find.md
         - Delete rooms: rooms/delete.md
         - Share rooms: rooms/sharing.md
+        - Message retention policies: rooms/retention_policies.md
     - Notifications: notifications.md
     - Encryption: encryption.md
     - Advanced:
         - Spaces: advanced/spaces.md
         - Integrations: advanced/integrations.md
+        - Abuse Management: advanced/abuse_management.md
+        - IRC Bridges: advanced/irc_bridge.md
+        - Bot's: advanced/local_bots.md
     - FAQ: faq.md
     - Impressum: impressum.md
     - Development: development.md

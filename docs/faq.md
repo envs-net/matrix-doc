@@ -171,7 +171,7 @@ Go back to the old room.
 * Set event type to `m.room.tombstone`
 * In event content enter (you'll need the target room_ID now):
 
-```
+```json
 {
     "body": "This room has been replaced by new one",
     "replacement_room": "!target_room_id:server.tld"
