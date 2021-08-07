@@ -19,7 +19,7 @@ Both `max_lifetime` and `min_lifetime` are optional parameters.
 !!! note
 	Note that message retention policies don't apply to state events.
 
-more infomration about Message retention policies can find [here](https://github.com/matrix-org/synapse/blob/master/docs/message_retention_policies.md).
+more information about Message retention policies can find [here](https://github.com/matrix-org/synapse/blob/master/docs/message_retention_policies.md).
 
 ## Lifetime limits on envs.net
 
