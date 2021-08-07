@@ -5,7 +5,7 @@ date: 2021-08-03T20:30:00+02:00
 
 # local Bot's on envs.net
 
-> all our bots are from [maubot](https://github.com/maubot/maubot)
+> all our bots are from Maunium's [maubot](https://github.com/maubot/maubot).
 
 feel free to use our bot's in your room!
 
@@ -35,6 +35,10 @@ feel free to use our bot's in your room!
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
 	you can try all the bots in [`#test:envs.net`](https://matrix.to/#/#test:envs.net).
+
+!!! info
+    you can also add all the bot's via the envs integration Manager names [Dimension](https://dimension.envs.net/).
+    ![opened integration manager menu](/images/local_bots_integration.png)
 
 ***
 
@@ -191,7 +195,7 @@ A GitHub client and webhook receiver for maubot.
 
 ## Weather Bot
 
-A Bot that gets the weather from [wttr.in](http://wttr.in) and returns the text to the chat
+A Bot that gets the weather from [wttr.in](http://wttr.in) and returns the text to the chat.
 
 **name:** [`@weather:envs.net`](https://matrix.to/#/@weather:envs.net)
 
@@ -203,7 +207,7 @@ A Bot that gets the weather from [wttr.in](http://wttr.in) and returns the text 
 
 ## Translator
 
-A Bot to translate words using Google Translate (DeepL is planned too)
+A Bot to translate words using Google Translate. (DeepL is planned too)
 
 **name:** [`@translate:envs.net`](https://matrix.to/#/@translate:envs.net)
 
