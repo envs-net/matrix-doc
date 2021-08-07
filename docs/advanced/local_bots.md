@@ -24,6 +24,8 @@ you can try all the bots in [#test:envs.net](https://matrix.to/#/#test:envs.net)
 
 ## RSS Bot
 
+**name:** [`@rss:envs.net`](https://matrix.to/#/@rss:envs.net)
+
 a bot that posts RSS feed updates to Matrix.
 
 **Usage:** `!rss  <subcommand> [...]`
@@ -36,32 +38,64 @@ a bot that posts RSS feed updates to Matrix.
 
 ## Reminder
 
+**name:** [`@reminder:envs.net`](https://matrix.to/#/@reminder:envs.net)
+
 ## sed Bot
+
+**name:** [`@sed:envs.net`](https://matrix.to/#/@sed:envs.net)
 
 ## Poll Bot
 
+**name:** [`@poll:envs.net`](https://matrix.to/#/@poll:envs.net)
+
 ## Karma Bot
+
+**name:** [`@karma:envs.net`](https://matrix.to/#/@karma:envs.net)
 
 ## Github Bot
 
+**name:** [`@github:envs.net`](https://matrix.to/#/@github:envs.net)
+
 ## Weather Bot
+
+**name:** [`@weather:envs.net`](https://matrix.to/#/@weather:envs.net)
 
 ## Translator
 
+**name:** [`@translate:envs.net`](https://matrix.to/#/@translate:envs.net)
+
 ## version checker
+
+**name:** [`@version:envs.net`](https://matrix.to/#/@version:envs.net)
 
 ## urbandictionary Bot
 
+**name:** [`@urban:envs.net`](https://matrix.to/#/@urban:envs.net)
+
 ## Wolfram Alpha Bot
+
+**name:** [`@wolframalpha:envs.net`](https://matrix.to/#/@wolframalpha:envs.net)
 
 ## Factorial Bot
 
+**name:** [`@factorial:envs.net`](https://matrix.to/#/@factorial:envs.net)
+
 ## Dice Bot
+
+**name:** [`@dice:envs.net`](https://matrix.to/#/@dice:envs.net)
 
 ## XKCD
 
+**name:** [`@xkcd:envs.net`](https://matrix.to/#/@xkcd:envs.net)
+
 ## CommitStrip
+
+**name:** [`@commitstrip:envs.net`](https://matrix.to/#/@commitstrip:envs.net)
 
 ## Cat Disruptor
 
+**name:** [`@cat:envs.net`](https://matrix.to/#/@cat:envs.net)
+
 ## echobot [envs]
+
+**name:** [`@echo:envs.net`](https://matrix.to/#/@echo:envs.net)
