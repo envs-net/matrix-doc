@@ -143,6 +143,19 @@ Furthermore, there are other Matrix-Clients, that can handle more Matrix-Account
 
 ***
 
+## User-specified Element Desktop config.json
+
+- `%APPDATA%\$NAME\config.json` on Windows
+- `$XDG_CONFIG_HOME\$NAME\config.json` or `~/.config/$NAME/config.json` on Linux
+- `~/Library/Application Support/$NAME/config.json` on macOS
+
+In the paths above, `$NAME` is typically `Element`, unless you use `--profile
+$PROFILE` in which case it becomes `Element-$PROFILE`, or it is using one of
+the above created by a pre-1.7 install, in which case it will be `Riot` or
+`Riot-$PROFILE`.
+
+***
+
 ## Create a tombstone event
 
 This will move all Matrix users in the old room to the new room.
