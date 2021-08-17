@@ -46,7 +46,8 @@ feel free to use our bot's in your room!
 
 ## Audio Preventer
 
-**name:** [`@audio_preventer:envs.net`](https://matrix.to/#/@audio_preventer:envs.net)
+**name:** [`@audio_preventer:envs.net`](https://matrix.to/#/@audio_preventer:envs.net)  
+**src:** [https://github.com/MTRNord/maubot-audio-preventer](https://github.com/MTRNord/maubot-audio-preventer)
 
 A Bot to prevent voice or audio messages to be sent into a room.
 
@@ -58,7 +59,8 @@ The Audio Preventer is instructed to auto redact those, warn you 3 times as text
 
 ## RSS Bot
 
-**name:** [`@rss:envs.net`](https://matrix.to/#/@rss:envs.net)
+**name:** [`@rss:envs.net`](https://matrix.to/#/@rss:envs.net)  
+**src:** [https://github.com/maubot/rss](https://github.com/maubot/rss)
 
 A Bot that posts RSS feed updates to Matrix.
 
@@ -74,7 +76,8 @@ A Bot that posts RSS feed updates to Matrix.
 
 A Bot to remind you about things.
 
-**name:** [`@reminder:envs.net`](https://matrix.to/#/@reminder:envs.net)
+**name:** [`@reminder:envs.net`](https://matrix.to/#/@reminder:envs.net)  
+**src:** [https://github.com/maubot/reminder](https://github.com/maubot/reminder)
 
 **Usage:** `!remind <date> [message]` _OR_ `!remind <subcommand> [...]`
 
@@ -98,7 +101,8 @@ To list your upcoming reminders, use `!remind list`
 
 A Bot to do sed-like replacements.
 
-**name:** [`@sed:envs.net`](https://matrix.to/#/@sed:envs.net)
+**name:** [`@sed:envs.net`](https://matrix.to/#/@sed:envs.net)  
+**src:** [https://github.com/maubot/sed](https://github.com/maubot/sed)
 
 Example:
 
@@ -113,7 +117,8 @@ Example:
 
 A Bot that creates a poll in a room and allows users to vote.
 
-**name:** [`@poll:envs.net`](https://matrix.to/#/@poll:envs.net)
+**name:** [`@poll:envs.net`](https://matrix.to/#/@poll:envs.net)  
+**src:** [https://github.com/TomCasavant/PollMaubot](https://github.com/TomCasavant/PollMaubot)
 
 **Usage:** `!poll <subcommand> [...]`
 
@@ -143,7 +148,8 @@ Users vote by adding the matching emoji to the poll (i.e. if the first choice ha
 
 A Bot that tracks the karma of users.
 
-**name:** [`@karma:envs.net`](https://matrix.to/#/@karma:envs.net)
+**name:** [`@karma:envs.net`](https://matrix.to/#/@karma:envs.net)  
+**src:** [https://github.com/maubot/karma](https://github.com/maubot/karma)
 
 **Usage:** `!karma  <subcommand> [...]`
 
@@ -162,7 +168,8 @@ A Bot that tracks the karma of users.
 
 A GitHub client and webhook receiver for maubot.
 
-**name:** [`@github:envs.net`](https://matrix.to/#/@github:envs.net)
+**name:** [`@github:envs.net`](https://matrix.to/#/@github:envs.net)  
+**src:** [https://github.com/maubot/github](https://github.com/maubot/github)
 
 **Usage:** `!github  <subcommand> [...]`
 
@@ -211,7 +218,8 @@ A GitHub client and webhook receiver for maubot.
 
 A Bot that gets the weather from [wttr.in](http://wttr.in) and returns the text to the chat.
 
-**name:** [`@weather:envs.net`](https://matrix.to/#/@weather:envs.net)
+**name:** [`@weather:envs.net`](https://matrix.to/#/@weather:envs.net)  
+**src:** [https://github.com/kellya/maubot-weather](https://github.com/kellya/maubot-weather)
 
 **Usage:**
 
@@ -223,7 +231,8 @@ A Bot that gets the weather from [wttr.in](http://wttr.in) and returns the text 
 
 A Bot to translate words using Google Translate. (DeepL is planned too)
 
-**name:** [`@translate:envs.net`](https://matrix.to/#/@translate:envs.net)
+**name:** [`@translate:envs.net`](https://matrix.to/#/@translate:envs.net)  
+**src:** [https://github.com/maubot/translate](https://github.com/maubot/translate)
 
 **Usage:** `!translate <language> [text]`
 
@@ -261,7 +270,8 @@ Full list of supported languages: [https://cloud.google.com/translate/docs/langu
 
 A Bot to check the version of servers in rooms.
 
-**name:** [`@version:envs.net`](https://matrix.to/#/@version:envs.net)
+**name:** [`@version:envs.net`](https://matrix.to/#/@version:envs.net)  
+**src:** [https://mau.dev/maubot/rsvc](https://mau.dev/maubot/rsvc)
 
 **Usage:**
 
@@ -278,7 +288,8 @@ A Bot to check the version of servers in rooms.
 
 A Bot to fetch definitions from [Urban Dictionary](https://www.urbandictionary.com/). Returns a specified or random entry.
 
-**name:** [`@urban:envs.net`](https://matrix.to/#/@urban:envs.net)
+**name:** [`@urban:envs.net`](https://matrix.to/#/@urban:envs.net)  
+**src:** [https://github.com/dvdgsng/UrbanMaubot](https://github.com/dvdgsng/UrbanMaubot)
 
 **Usage:** `!ud [term] [index]`
 
@@ -293,7 +304,8 @@ Examples
 
 a Bot to search on [Wolfram Alpha](https://www.wolframalpha.com/).
 
-**name:** [`@wolframalpha:envs.net`](https://matrix.to/#/@wolframalpha:envs.net)
+**name:** [`@wolframalpha:envs.net`](https://matrix.to/#/@wolframalpha:envs.net)  
+**src:** [https://github.com/ggogel/WolframAlphaMaubot](https://github.com/ggogel/WolframAlphaMaubot)
 
 **Usage:** `!wolfram some search term`
 
@@ -301,7 +313,8 @@ a Bot to search on [Wolfram Alpha](https://www.wolframalpha.com/).
 
 A Bot that calculates expected and unexpected factorials in messages.
 
-**name:** [`@factorial:envs.net`](https://matrix.to/#/@factorial:envs.net)
+**name:** [`@factorial:envs.net`](https://matrix.to/#/@factorial:envs.net)  
+**src:** [https://github.com/maubot/factorial](https://github.com/maubot/factorial)
 
 **Usage:**
 
@@ -324,7 +337,8 @@ Example:
 
 A Bot that rolls dice. Has built-in calculator.
 
-**name:** [`@dice:envs.net`](https://matrix.to/#/@dice:envs.net)
+**name:** [`@dice:envs.net`](https://matrix.to/#/@dice:envs.net)  
+**src:** [https://github.com/maubot/dice](https://github.com/maubot/dice)
 
 **Usage:**
 
@@ -338,7 +352,8 @@ the results however you like.
 
 A Bot to fetch xkcd comics and to get notifications about new comics.
 
-**name:** [`@xkcd:envs.net`](https://matrix.to/#/@xkcd:envs.net)
+**name:** [`@xkcd:envs.net`](https://matrix.to/#/@xkcd:envs.net)  
+**src:** [https://github.com/maubot/xkcd](https://github.com/maubot/xkcd)
 
 **Usage:** `!xkcd [number]` _OR_ `!xkcd <subcommand> [...]`
 
@@ -348,7 +363,8 @@ A Bot to fetch xkcd comics and to get notifications about new comics.
 
 A Bot to fetch [CommitStrips](https://www.commitstrip.com/en/) and to get notifications about new comics.
 
-**name:** [`@commitstrip:envs.net`](https://matrix.to/#/@commitstrip:envs.net)
+**name:** [`@commitstrip:envs.net`](https://matrix.to/#/@commitstrip:envs.net)  
+**src:** [https://github.com/maubot/commitstrip](https://github.com/maubot/commitstrip)
 
 **Usage:** `!commitstrip` _OR_ `!commitstrip <subcommand> [...]`
 
@@ -358,7 +374,8 @@ A Bot to fetch [CommitStrips](https://www.commitstrip.com/en/) and to get notifi
 
 A Bot plugin that disrupts monologues cat pictures and react to some messages.
 
-**name:** [`@cat:envs.net`](https://matrix.to/#/@cat:envs.net)
+**name:** [`@cat:envs.net`](https://matrix.to/#/@cat:envs.net)  
+**src:** [https://github.com/maubot/disruptor](https://github.com/maubot/disruptor)
 
 You can use it 3 times per day with `🐈️` _(\:cat2:)_.
 
@@ -366,7 +383,8 @@ You can use it 3 times per day with `🐈️` _(\:cat2:)_.
 
 A simple Bot that echoes pings and other stuff.
 
-**name:** [`@echo:envs.net`](https://matrix.to/#/@echo:envs.net)
+**name:** [`@echo:envs.net`](https://matrix.to/#/@echo:envs.net)  
+**src:** [https://github.com/maubot/echo](https://github.com/maubot/echo)
 
 **Usage:**
 
@@ -377,4 +395,5 @@ A simple Bot that echoes pings and other stuff.
 
 A simple Bot that posts MXC URIs of uploaded images.
 
-**name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)
+**name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)  
+**src:** [https://github.com/maubot/media](https://github.com/maubot/media)
