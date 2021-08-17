@@ -14,6 +14,7 @@ feel free to use our bot's in your room!
 
 ## Overview
 
+[Audio Preventer](#audio_preventer) |
 [RSS Bot](#rss_bot) |
 [Reminder](#reminder) |
 [sed Bot](#sed_bot) |
@@ -40,6 +41,18 @@ feel free to use our bot's in your room!
 !!! info
     you can also add all the bot's via the envs integration Manager names [Dimension](https://dimension.envs.net/).
     ![opened integration manager menu](/images/local_bots_integration.png)
+
+***
+
+## Audio Preventer
+
+**name:** [`@audio_preventer:envs.net`](https://matrix.to/#/@audio_preventer:envs.net)
+
+A Bot to prevent voice or audio messages to be sent into a room.
+
+***Note: Bot account requires redact, kick and ban permissions.***
+
+The Audio Preventer is instructed to auto redact those, warn you 3 times as text, then kick you 5 times and then ban you. The counter are per user and across all rooms the bot is in. If you reach the ban level it will ban you on a new voice or audio message also in the other rooms the Audio Preventer is active in.
 
 ***
 
