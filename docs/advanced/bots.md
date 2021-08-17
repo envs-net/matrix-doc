@@ -55,8 +55,6 @@ A Bot to prevent voice or audio messages to be sent into a room.
 
 The Audio Preventer is instructed to auto redact those, warn you 3 times as text, then kick you 5 times and then ban you. The counter are per user and across all rooms the bot is in. If you reach the ban level it will ban you on a new voice or audio message also in the other rooms the Audio Preventer is active in.
 
-***
-
 ## RSS Bot
 
 **name:** [`@rss:envs.net`](https://matrix.to/#/@rss:envs.net)  
