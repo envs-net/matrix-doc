@@ -9,9 +9,6 @@ date: 2021-08-03T20:30:00+02:00
 
 feel free to use our bot's in your room!
 
-!!! note
-	The Bot's won't work in encrypted rooms!
-
 ## Overview
 
 [Audio Preventer](#audio_preventer) |
