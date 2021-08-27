@@ -280,7 +280,7 @@ A Bot to check the version of servers in rooms.
   or empty.
 - `!server test <name>` - Test one server, independently of any previous whole-room tests.
 - `!server`, `!version` and `!versions` are aliases for `!servers`, `recheck`
-  is an alias for `tetest`.
+  is an alias for `test`.
 
 ## urbandictionary Bot
 
