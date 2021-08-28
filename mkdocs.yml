@@ -56,7 +56,7 @@ nav:
         - Spaces: advanced/spaces.md
         - Integrations: advanced/integrations.md
         - Abuse Management: advanced/abuse_management.md
-        - IRC Bridges: advanced/irc_bridge.md
+        - Bridges: advanced/bridge.md
         - Bot's: advanced/bots.md
     - FAQ: faq.md
     - Impressum: impressum.md
