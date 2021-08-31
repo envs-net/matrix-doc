@@ -28,7 +28,7 @@ Using text formatted in the markup language [**MarkDown**](https://de.wikipedia.
 The current [MarkDown specification can be found here](https://spec.commonmark.org/current/).
 
 The input of LaTeX formulas is currently not supported, but has already been requested: https://github.com/vector-im/element-web/issues/1945
-Alternatively, an integration can be used to create a hedgedoc (e.g. at https://hedgedoc.envs.net/), in which LaTeX can be used.
+Alternatively, an integration can be used to create a hedgedoc (e.g. at [https://hedgedoc.envs.net/](https://hedgedoc.envs.net/)), in which LaTeX can be used.
 
 **Hashtags** can be used to make terms easier to find in the search.
 
