@@ -21,8 +21,28 @@ our envs.net matrix instance provides an federated irc bridge to [irc.tilde.chat
 | **room for support:**   | [#envs:envs.net](https://matrix.to/#/envs:envs.net)                                        |
 | **operator:**           | envs.net (~creme)                                                                          |
 
+## example commands
+
+### talk to bridge admin-bot
+
+`/msg @IRCBot:envs.net !help`
+
+### !listrooms
+
+List all the Matrix rooms that you are joined to which are also connected to IRC.
+
+`/msg @IRCBot:envs.net !listrooms`
+
+### join a irc channel
+
+`/msg @IRCBot:envs.net !join #channelname`
+
+### more commands
+
+.. in the offical documentation on [https://matrix-org.github.io/matrix-appservice-irc/latest/admin_room.html](https://matrix-org.github.io/matrix-appservice-irc/latest/admin_room.html).
+
 ## Documentation
 
-- [matrix irc bridge documentation](https://matrix-org.github.io/matrix-appservice-irc/latest/usage.html)
+- [offical matrix irc bridge documentation](https://matrix-org.github.io/matrix-appservice-irc/latest/usage.html)
 - [end user faq](https://github.com/matrix-org/matrix-appservice-irc/wiki/End-user-FAQ)
 - [tilde.chat - wiki](https://tilde.chat/wiki/)
