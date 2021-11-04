@@ -7,7 +7,13 @@ date: 2021-08-03T20:30:00+02:00
 
 ## IRC Bridge to irc.tilde.chat
 
+!!! fail
+	The bridge is currently not working because a connection to the IRC server irc.tilde.chat is prevented.
+
 our envs.net matrix instance provides an federated irc bridge to [irc.tilde.chat](https://tilde.chat/).
+
+!!! info
+	The envs.net project rooms are not bridged!
 
 ### Bridge information
 
