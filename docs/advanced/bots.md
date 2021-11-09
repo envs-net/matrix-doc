@@ -29,7 +29,8 @@ feel free to use our bot's in your room!
 [CommitStrip](#commitstrip) |
 [Cat Disruptor](#cat_disruptor) |
 [echobot [envs]](#echobot_envs) |
-[media Bot](#media_bot)
+[media Bot](#media_bot) |
+[youtube Bot](#youtube_bot)
 
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
@@ -393,3 +394,10 @@ A simple Bot that posts MXC URIs of uploaded images.
 
 **name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)  
 **src:** [https://github.com/maubot/media](https://github.com/maubot/media)
+
+## youtube Preview Bot
+
+**name:** [`@youtube:envs.net`](https://matrix.to/#/@youtube:envs.net)  
+**src:** [https://github.com/ggogel/YoutubePreviewMaubot](https://github.com/ggogel/YoutubePreviewMaubot)
+
+A simple Bot that responds to a YouTube link with the video title and thumbnail.
