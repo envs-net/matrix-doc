@@ -30,7 +30,7 @@ feel free to use our bot's in your room!
 [Cat Disruptor](#cat_disruptor) |
 [echobot [envs]](#echobot_envs) |
 [media Bot](#media_bot) |
-[youtube Bot](#youtube_bot)
+[youtube Preview Bot](#youtube_preview_bot)
 
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
