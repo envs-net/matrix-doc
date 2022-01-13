@@ -49,11 +49,11 @@ nav:
         - Find rooms: rooms/find.md
         - Delete rooms: rooms/delete.md
         - Share rooms: rooms/sharing.md
+        - Spaces: rooms/spaces.md
         - Message retention policies: rooms/retention_policies.md
     - Notifications: notifications.md
     - Encryption: encryption.md
     - Advanced:
-        - Spaces: advanced/spaces.md
         - Integrations: advanced/integrations.md
         - Abuse Management: advanced/abuse_management.md
         - Bridges: advanced/bridges.md

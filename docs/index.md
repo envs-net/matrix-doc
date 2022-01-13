@@ -41,6 +41,7 @@ In recent years, the need for supporting digital tools for team collaboration ha
     * [Sharing rooms and making them public](/rooms/sharing/)
     * [Find rooms](/rooms/find/)
     * [Delete and leave rooms](/rooms/delete/)
+    * [Spaces](/rooms/spaces/) (a collection of rooms)
 * [Fine-tune notifications](notifications.md)
 * [Use integrations, bridges, bots (e.g. Jitsi)](/advanced/integrations/)
 * [More Clients](/clients/more_clients.md)

@@ -13,11 +13,4 @@ Matrix is an open standard, the details of interoperable communication using the
 
 Since it is free software, improvement requests can be converted into direct programming jobs.
 
-Currently still in development, and can be promoted/accelerated by orders/donations, are among others
-
-* chat export
-* Threading (more clearly arranged discussions)
-* personal status
-* various integrations / bots / bridges
-
-Discussions on the topic can be held in [#envs:envs.net](https://matrix.to/#/#envs:envs.net).
+Discussions on the topic can be held in [#matrix:matrix.org](https://matrix.to/#/#matrix:matrix.org).
