@@ -11,4 +11,7 @@ When leaving rooms, they no longer appear in the room list (left column). If the
 
 As administrator:in, all room members should first be "kicked" (removed from the room), then the person is the last to leave the room and thus initiates the later deletion by the server.
 
-An export of the room history e.g. into a .txt or .html file is not yet possible: [https://github.com/vector-im/element-web/issues/2630](https://github.com/vector-im/element-web/issues/2630)
+!!! note
+	Before you delete the room you can export the room history e.g. into a `.txt`, `.html` or `.json` file ..
+
+	![export room history](/images/room_export_history.png)
