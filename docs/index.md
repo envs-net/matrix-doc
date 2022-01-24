@@ -41,7 +41,7 @@ In recent years, the need for supporting digital tools for team collaboration ha
     * [Sharing rooms and making them public](/rooms/sharing/)
     * [Find rooms](/rooms/find/)
     * [Delete and leave rooms](/rooms/delete/)
-    * [Spaces](/rooms/spaces/) (a collection of rooms)
+    * [Spaces (a collection of rooms)](/rooms/spaces/)
 * [Fine-tune notifications](notifications.md)
 * [Use integrations, bridges, bots (e.g. Jitsi)](/advanced/integrations/)
 * [More Clients](/clients/more_clients.md)
@@ -74,3 +74,5 @@ The ideal is to deal with problems in a transparent way, from which all others c
 
 !!! note
     Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) (unfederated) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
+    ___
+    The file upload limit on the Homeserver is: `100mb`
