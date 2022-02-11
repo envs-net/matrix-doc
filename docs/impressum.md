@@ -17,4 +17,4 @@ E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
 ## privacy policy
 
-The privacy policy for the envs.net homeserver is available at [https://envs.net/_matrix/consent]https://envs.net/_matrix/consent.
+The privacy policy for the envs.net homeserver is available at [https://envs.net/_matrix/consent](https://envs.net/_matrix/consent).
