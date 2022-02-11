@@ -15,4 +15,6 @@ D-01097 Dresden
 
 E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
-## [privacy policy](https://envs.net/privacy-policy/)
+## privacy policy
+
+The privacy policy for the envs.net homeserver is available at [https://envs.net/_matrix/consent]https://envs.net/_matrix/consent.
