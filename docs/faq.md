@@ -35,7 +35,7 @@ Open Element `Settings` / `General` and press `Clear Cache`. This is a long stan
 
 ## Matrix is slow or not working properly. I'm on matrix.org homeserver
 
-Matrix.org is used as default server in many clients. It is known to be slow occasionally. You should pick a server you like from list of [public servers](https://wiki.asra.gr/en:public_servers) and register there. If you already have joined many rooms, you can use [migration tool](https://ems.element.io/tools/account-migration) to "copy" your old account to the new account.
+Matrix.org is used as default server in many clients. It is known to be slow occasionally. You should pick a server you like from [joinmatrix.org](https://joinmatrix.org/servers/) or the asra.gr list of [public servers](https://wiki.asra.gr/en:public_servers) and register there. If you already have joined many rooms, you can use [migration tool](https://ems.element.io/tools/account-migration) to "copy" your old account to the new account.
  
 After finished, remember to leave all rooms with your matrix.org account so it won't use any resources on the already overloaded server. You can login to both accounts simultaneously with private browser windows.
 
@@ -66,17 +66,7 @@ With the matrix.to link, which you can see under the i for the room properties a
 ***
 
 ## How do you tell people a room address with Element Web-Client?
-With the matrix.to link, which you can see under the i for the room properties and a further click on "Part room" and an exchange of the front matrix.to with matrix.tu-dresden.de
-
-***
-
-## Can I write LaTeX?
-Yes, but it is an experimental feature right now. It will be available for everybody in a few weeks: [https://github.com/vector-im/element-web/issues/1945](https://github.com/vector-im/element-web/issues/1945)
-
-***
-
-## Are there something like Threads (like in Mattermost/Slack) in Matrix?
-No, threads like in Mattermost or Slack are currently not existing in Matrix. The developers of Element are aware of this topic and planed it for future release. To get more information, follow their roadmap: [https://github.com/vector-im/roadmap/projects/1](https://github.com/vector-im/roadmap/projects/1)
+With the matrix.to link, which you can see under the i for the room properties and a further click on "Part room" and an exchange of the front matrix.to with matrix.envs.net
 
 ***
 
@@ -144,6 +134,10 @@ Furthermore, there are other Matrix-Clients, that can handle more Matrix-Account
 ***
 
 ## User-specified Element Desktop config.json
+
+You can configure the app in `config.json` and customising it. All config options with describtion can you find in the [element docs](https://github.com/vector-im/element-web/blob/develop/docs/config.md).
+
+For a good example, see [https://develop.element.io/config.json](https://develop.element.io/config.json).
 
 - `%APPDATA%\$NAME\config.json` on Windows
 - `$XDG_CONFIG_HOME\$NAME\config.json` or `~/.config/$NAME/config.json` on Linux
