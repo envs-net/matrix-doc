@@ -135,7 +135,7 @@ Furthermore, there are other Matrix-Clients, that can handle more Matrix-Account
 
 ## User-specified Element Desktop config.json
 
-You can configure the app in `config.json` and customising it. All config options with describtion can you find in the [element docs](https://github.com/vector-im/element-web/blob/develop/docs/config.md).
+You can configure the app in `config.json` and customising it. All config options with description can you find in the [element docs](https://github.com/vector-im/element-web/blob/develop/docs/config.md).
 
 For a good example, see [https://develop.element.io/config.json](https://develop.element.io/config.json).
 
