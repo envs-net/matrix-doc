@@ -33,8 +33,10 @@ after this step, the room is protected.
 
 - [#matrix-org-coc-bl:matrix.org](https://matrix.to/#/#matrix-org-coc-bl:matrix.org)
 - [#matrix-org-hs-tos-bl:matrix.org](https://matrix.to/#/#matrix-org-hs-tos-bl:matrix.org)
+- [#public-server-bans:ru-matrix.org](https://matrix.to/#/#public-server-bans:ru-matrix.org)
 - [#banlist-spam:systemtest.tk](https://matrix.to/#/#banlist-spam:systemtest.tk)
 - [#freifunk-ban-list:midnightthoughts.space](https://matrix.to/#/#freifunk-ban-list:midnightthoughts.space)
+- [#asragrbanlist_general:asra.gr](https://matrix.to/#/#asragrbanlist_general:asra.gr)
 
 ## ignore people *(element feature_mjolnir)*
 
