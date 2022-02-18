@@ -20,6 +20,22 @@ to protect your own room from known spammers and evil accounts:
 
 after this step, the room is protected.
 
+## Access Control List's (ACL) *(ban lists)*
+
+*These lists contain the entries about banned users and servers.*
+
+**our local list:**
+
+- [#envs-ban-list:envs.net](https://matrix.to/#/#envs-ban-list:envs.net)
+
+### lists that we watch
+*These bans are taken over by our local mjolnir.*
+
+- [#matrix-org-coc-bl:matrix.org](https://matrix.to/#/#matrix-org-coc-bl:matrix.org)
+- [#matrix-org-hs-tos-bl:matrix.org](https://matrix.to/#/#matrix-org-hs-tos-bl:matrix.org)
+- [#banlist-spam:systemtest.tk](https://matrix.to/#/#banlist-spam:systemtest.tk)
+- [#freifunk-ban-list:midnightthoughts.space](https://matrix.to/#/#freifunk-ban-list:midnightthoughts.space)
+
 ## ignore people *(element feature_mjolnir)*
 
 you can also subscribe to our banlist to ignore the banned users even in unprotected rooms.
@@ -27,12 +43,13 @@ you can also subscribe to our banlist to ignore the banned users even in unprote
 .. to do this, you need to allow the `showLabsSettings` feature in your element config ([see sample config](https://element.envs.net/config.json))
 and then activate in `settings` -> `labs` -> `Try out new ways to ignore people`.
 
-in the last step you need to subscribe our banlist: [#envs-ban-list:envs.net](https://matrix.to/#/#envs-ban-list:envs.net) (`!UyrSHIwWgbGsHjabGe:envs.net`)
+in the last step you need to subscribe our banlist: [#envs-ban-list:envs.net](https://matrix.to/#/#envs-ban-list:envs.net)
 under `settings` -> `ignored users`.
 
 ![Screenshot of ignored people feature](/images/mjolnir_ignored_people.png)
 
-***official matrix.org banlists:***
+<br />
+# official matrix.org banlists
 
 - [#matrix-org-coc-bl:matrix.org](https://matrix.to/#/#matrix-org-coc-bl:matrix.org) (coc violations)
 - [#matrix-org-hs-tos-bl:matrix.org](https://matrix.to/#/#matrix-org-hs-tos-bl:matrix.org) (toc violations)
