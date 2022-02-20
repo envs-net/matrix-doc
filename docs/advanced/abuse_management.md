@@ -20,6 +20,10 @@ to protect your own room from known spammers and evil accounts:
 
 after this step, the room is protected.
 
+## additional enabled Protections
+
+- `MessageIsVoiceProtection` - If a user posts a voice message, that message will be redacted. No bans are issued.
+
 ## Access Control List's (ACL) *(ban lists)*
 
 *These lists contain the entries about banned users and servers.*
