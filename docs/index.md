@@ -47,7 +47,7 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [More Clients](/clients/more_clients.md)
 * [Using spaces as room filters](advanced/spaces/)
 * [Further development of Matrix](development.md)
-* [Privacy policy](https://envs.net/privacy-policy/)
+* [Privacy policy](https://envs.net/_matrix/consent)
 * [Impressum](impressum.md)
 
 ## Questions and Contact
