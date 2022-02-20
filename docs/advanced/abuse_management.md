@@ -33,14 +33,15 @@ after this step, the room is protected.
 - [#envs-ban-list:envs.net](https://matrix.to/#/#envs-ban-list:envs.net)
 
 ### lists that we watch
-*These bans are taken over by our local mjolnir.*
+*These bans we trust and taken over by our local mjolnir.*
 
 - [#matrix-org-coc-bl:matrix.org](https://matrix.to/#/#matrix-org-coc-bl:matrix.org)
 - [#matrix-org-hs-tos-bl:matrix.org](https://matrix.to/#/#matrix-org-hs-tos-bl:matrix.org)
 - [#public-server-bans:ru-matrix.org](https://matrix.to/#/#public-server-bans:ru-matrix.org)
+- [#tchncs-ban-list:tchncs.de](https://matrix.to/#/#tchncs-ban-list:tchncs.de)
 - [#banlist-spam:systemtest.tk](https://matrix.to/#/#banlist-spam:systemtest.tk)
-- [#freifunk-ban-list:midnightthoughts.space](https://matrix.to/#/#freifunk-ban-list:midnightthoughts.space)
 - [#asragrbanlist_general:asra.gr](https://matrix.to/#/#asragrbanlist_general:asra.gr)
+- [#freifunk-ban-list:midnightthoughts.space](https://matrix.to/#/#freifunk-ban-list:midnightthoughts.space)
 
 ## ignore people *(element feature_mjolnir)*
 
