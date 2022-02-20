@@ -56,7 +56,6 @@ nav:
     - Advanced:
         - Integrations: advanced/integrations.md
         - Abuse Management: advanced/abuse_management.md
-        - Bridges: advanced/bridges.md
         - Bot's: advanced/bots.md
     - FAQ: faq.md
     - Impressum: impressum.md
