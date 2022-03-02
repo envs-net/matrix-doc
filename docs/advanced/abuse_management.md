@@ -14,9 +14,9 @@ to protect your own room from known spammers and evil accounts:
 - invite [@mjolnir:envs.net](https://matrix.to/#/@mjolnir:envs.net) and give the user admin Permissions.  
 
 	!!! tip
-		if you do not want to give @mjolnir:envs.net admin rights then you have to change the room permission `Change Server ACL` to `Moderator`. With this setting, @mjolnir:envs.net only needs moderator permissions.
+		if you do not want to give @mjolnir:envs.net admin rights then you need to change the room permission `Change Server ACL` to `Moderator`. With this setting, @mjolnir:envs.net only needs moderator permissions.
 
-- the abuse moderators then receive the invitation and have to confirm it.
+- the abuse moderators then receive the invitation and needs to confirm it.
 
 after this step, the room is protected.
 
