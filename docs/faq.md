@@ -156,8 +156,10 @@ This will move all Matrix users in the old room to the new room.
 
 !!! note
     Do NOT use `/upgraderoom` instead, as IRC bridge will follow it and FOOBAR the new room.
+
+1) Create an new Room an copy the room_ID.
  
-Go back to the old room.
+2) Go back to the old room.
 
 * Type `/devtools`.
 * Select "Create custom event"
