@@ -27,7 +27,7 @@ Our current instance lifetime limits are:
 
 ```yaml
   allowed_lifetime_min: 30m
-  allowed_lifetime_max: 3y
+  allowed_lifetime_max: 10y
 ```
 
 ## Room configuration
