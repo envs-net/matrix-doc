@@ -37,9 +37,8 @@ moderator needs to send a state event in that room with the type
 `m.room.retention` and the following content:
 
 * Type `/devtools`.
-* Select "Create custom event"
-* Press red "Event" button to change to "State event"
-* Set event type to `m.room.retention`
+* Select "Explore room state" -> "Send custom state event"
+* Set event type to `m.room.retention` ("State Key" can be left blank)
 
 ```json
 {
