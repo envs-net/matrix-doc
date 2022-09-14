@@ -9,7 +9,7 @@ When leaving rooms, they no longer appear in the room list (left column). If the
 
 ![Room settings with the selection Leave](/images/01_Leave_en.png "Room settings with the selection Leave")
 
-As administrator:in, all room members should first be "kicked" (removed from the room), then the person is the last to leave the room and thus initiates the later deletion by the server.
+As administrator, all room members should first be "kicked" (removed from the room), then the person is the last to leave the room and thus initiates the later deletion by the server.
 
 !!! note
 	Before you delete the room you can export the room history e.g. into a `.txt`, `.html` or `.json` file ..

@@ -44,4 +44,4 @@ Similarly, you can jump to the latest timestamp of a conversation by clicking on
 
 ![Marking of the button jumping to the newest message](/images/18_jump_down.png)
 
-A theme-based presentation (also called "threading") that is similarly good as [Zulip](https://en.wikipedia.org/wiki/Zulip) (by themes in each room/group/stream/channel) or in other programs by using a 3rd column does not exist with Matrix/Element, but is available as a wish: https://github.com/vector-im/element-web/issues/2349
+A theme-based presentation (also called “threading”) is now available in Element as well.

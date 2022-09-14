@@ -70,6 +70,16 @@ With the matrix.to link, which you can see under the i for the room properties a
 
 ***
 
+## Can I write LaTeX?
+Yes, but it is an experimental feature right now. It will be available for everybody in a few weeks: [https://github.com/vector-im/element-web/issues/1945](https://github.com/vector-im/element-web/issues/1945)
+
+***
+
+## Are there something like Threads (like in Mattermost/Slack) in Matrix?
+Threads like in Mattermost or Slack are currently available as lab feature in Matrix and will be stable within the next weeks. To get more information, follow their roadmap: [https://github.com/vector-im/roadmap/projects/1](https://github.com/vector-im/roadmap/projects/1)
+
+***
+
 ## I do not have a security key (recovery key)
 To do this, please check whether this has been set up at all. See [Secure backup](/settings/#secure_backup)
 
@@ -118,6 +128,11 @@ Mass invite by E-Mail is currently not supported in Element.
 
 ## Can I modify access permissions for all rooms in my community, that only members of the community can enter?
 No, this is not possible. Rooms can be part of multiple communities. Therefore the access permission will be set on room based level.
+
+***
+
+## I do not see any message of a specific person in a room
+A common reason for this is that you blocked that person by accident. You do not see any message of the person even if you hear that this person posted them. Open your Security settings in Element and scroll down. Please check in the category “Blocked user” if you find the person that does not belong there… Remove it!
 
 ***
 
