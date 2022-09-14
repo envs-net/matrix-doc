@@ -132,7 +132,7 @@ No, this is not possible. Rooms can be part of multiple communities. Therefore t
 ***
 
 ## I do not see any message of a specific person in a room
-A common reason for this is that you blocked that person by accident. You do not see any message of the person even if you hear that this person posted them. Open your Security settings in Element and scroll down. Please check in the category “Blocked user” if you find the person that does not belong there… Remove it!
+A common reason for this is that you blocked that person by accident. You do not see any message of the person even if you hear that this person posted them. Open your Security settings in Element and scroll down. Please check in the category "Blocked user" if you find the person that does not belong there… Remove it!
 
 ***
 

@@ -44,4 +44,4 @@ Similarly, you can jump to the latest timestamp of a conversation by clicking on
 
 ![Marking of the button jumping to the newest message](/images/18_jump_down.png)
 
-A theme-based presentation (also called “threading”) is now available in Element as well.
+A theme-based presentation (also called "threading") is now available in Element as well.
