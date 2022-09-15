@@ -30,6 +30,7 @@ feel free to use our bot's in your room!
 [Cat Disruptor](#cat_disruptor) |
 [echobot [envs]](#echobot_envs) |
 [media Bot](#media_bot) |
+[fetch Image Bot](#fetch_image_bot) |
 [youtube Preview Bot](#youtube_preview_bot)
 
 !!! info
@@ -394,6 +395,15 @@ A simple Bot that posts MXC URIs of uploaded images.
 
 **name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)  
 **src:** [https://github.com/maubot/media](https://github.com/maubot/media)
+
+## fetch Image Bot
+
+A Bot to fetch an image from an URL.
+
+**name:** [`@fetchimage:envs.net`](https://matrix.to/#/@fetchimage:envs.net)  
+**src:** [https://github.com/shukon/maubot-fetchimage](https://github.com/shukon/maubot-fetchimage)
+
+**Usage:** `!fetch-image https://example.org/some_image.jpg`
 
 ## youtube Preview Bot
 
