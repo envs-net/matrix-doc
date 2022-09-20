@@ -9,7 +9,7 @@ authors:
 
 ## Convenient use of end-to-end encryption (E2EE)
 
-Matrix not only encrypts transports to and from the home server of envs.net but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the envs.net, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted.
+Matrix not only encrypts transports to and from the homeserver of envs.net but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the homeserver of the envs.net, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted.
 
 !!! danger
     It is highly recommended to use this key backup (with a secure security phrase which is **NOT** your login password) and read on at [Other important settings](#other_important_settings)!
@@ -70,7 +70,7 @@ In the **Security & Privacy** tab you will find all your devices that have been 
 
 * The public names of your devices which can be assigned here (by clicking on them with the mouse) can also be viewed by your conversation partner:inside.  This helps if they want to compare the cryptographic keys of your devices (e.g. laptop + cell phone) and can easily identify the device names.
 
-* The many cryptographic keys are stored on the respective device. If this is e.g. a tab in a browser, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of envs.net, on which (protected by a passphrase) all cryptographic keys are stored encrypted. It is strongly recommended to use this key backup!
+* The many cryptographic keys are stored on the respective device. If this is e.g. a tab in a browser, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the homeserver of envs.net, on which (protected by a passphrase) all cryptographic keys are stored encrypted. It is strongly recommended to use this key backup!
 
 ![Screenshot of the menu item for key protection](/images/10_Setup-Keystore_en.png "Screenshot of the menu item for key protection")
 

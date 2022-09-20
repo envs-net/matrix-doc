@@ -14,7 +14,7 @@ Every room has a so-called room-address, which can be found in the room settings
 
 Because this cryptic address can not be read easily by humans, custom room addresses can be assigned. This is only necessary for rooms, which you want to make public and reference in other places.
 
-Room addresses can either be globally published addresses (findable by users in other servers - useful for topics beyond envs.net) or local addresses, which is only valid within the matrix home server at envs.net.
+Room addresses can either be globally published addresses (findable by users in other servers - useful for topics beyond envs.net) or local addresses, which is only valid within the matrix homeserver at envs.net.
 
 !!! note
     To publish a global address, you have to create a local address first. **It is necessary to create a local address in both cases!**
@@ -27,7 +27,7 @@ Afterwards a recognizable name of this room link can be assigned in the "Room al
 
 ![Room settings with the local addresses selected](/images/02_Sharing_en.png "Room settings with the local addresses selected")
 
-You can also assign different addresses. If the room address should be published in the room directory of the matrix home server of the `envs.net`, this can be done by the following.
+You can also assign different addresses. If the room address should be published in the room directory of the matrix homeserver of the `envs.net`, this can be done by the following.
 
 ![Room settings with the public room address selected](/images/03_Sharing_en.png "Room settings with the public room address selected")
 
@@ -45,7 +45,7 @@ into the chat line. If you are a member of that room, you can confirm the auto-c
 
 **Suggestion Nr. 2 for sharing a room address:**
 
-The share icon at the top right of each room also offers a `matrix.to`-link, as well as a QR code and various social networks. The `matrix.to`-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered.
+The share icon at the top right of each room also offers a `matrix.to`-link, as well as a QR code and various social networks. The `matrix.to`-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which homeserver the room is to be entered.
 
 ![Share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png "Share icon marked in the chat view of the room")
 

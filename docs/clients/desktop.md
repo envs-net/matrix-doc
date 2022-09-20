@@ -15,9 +15,9 @@ This is done by clicking on **Edit**. Then you will not accidentally end up on t
 
 ![Change login page with focus on the homeserver button](/images/02_Change-Homeserver_en.png "Change login page with focus on the homeserver button")
 
-Now you can manually specify the home server: `matrix.envs.net`
+Now you can manually specify the homeserver: `matrix.envs.net`
 
-![Input field to change the home server with the input matrix.envs.net](/images/03_Set-Homeserver_en.png "Input field to change the home server with the input matrix.envs.net")
+![Input field to change the homeserver with the input matrix.envs.net](/images/03_Set-Homeserver_en.png "Input field to change the homeserver with the input matrix.envs.net")
 
 Afterwards the one-time login with Username and Password must be carried out:
 

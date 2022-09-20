@@ -30,14 +30,14 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 `@username:envs.net`
 
 !!! note
-	If you want to start immediately with a [Matrix Client](/clients/) instead of the above mentioned website (Element Web-App hosted on envs.net), it is important to change the home server from the usually default `matrix.org to` [`https://matrix.envs.net`](https://matrix.envs.net) (shown in the following three screenshots)
+	If you want to start immediately with a [Matrix Client](/clients/) instead of the above mentioned website (Element Web-App hosted on envs.net), it is important to change the homeserver from the usually default `matrix.org` to `matrix.envs.net` (shown in the following three screenshots)
 
 ![Change login page with focus on the homeserver Button](/images/02_Login2_en.png "Change login page with focus on the homeserver Button")
 
 1. click on change
-![Input field to change the home server with the input matrix.envs.net](/images/02_Login3_en.png "Input field to change the home server with the input matrix.envs.net")
-2. mark the preset home server address and remove it
-3. entry of the matrix home server address of envs.net
+![Input field to change the homeserver with the input matrix.envs.net](/images/02_Login3_en.png "Input field to change the homeserver with the input matrix.envs.net")
+2. mark the preset homeserver address and remove it
+3. entry of the matrix homeserver address of envs.net
 
 ## Browser settings
 

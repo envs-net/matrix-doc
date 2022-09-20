@@ -20,9 +20,9 @@ This is done by clicking on **Change**. Then you will not accidentally end up on
 
 ![Change login page with focus on the homeserver button](/images/02_Change-Homeserver_en.png "Change login page with focus on the homeserver button")
 
-Now you can manually specify the home server: `matrix.envs.net`
+Now you can manually specify the homeserver: `matrix.envs.net`
 
-![Input field to change the home server with the input matrix.envs.net](/images/03_Set-Homeserver_en.png "Input field to change the home server with the input matrix.envs.net")
+![Input field to change the homeserver with the input matrix.envs.net](/images/03_Set-Homeserver_en.png "Input field to change the homeserver with the input matrix.envs.net")
 
 Afterwards the login with username and password must be carried out:
 
@@ -46,7 +46,7 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 
 ## Convenient use of end-to-end encryption (E2EE)
 
-Matrix not only encrypts transports to and from the home server of envs.net but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the envs.net, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted.
+Matrix not only encrypts transports to and from the homeserver of envs.net but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the homeserver of the envs.net, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted.
 
 !!! danger
     It is highly recommended to use this key backup (with a secure security phrase which is **NOT** your login password)!
