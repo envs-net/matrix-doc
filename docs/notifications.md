@@ -37,8 +37,8 @@ ntfy (pronounce: notify) is a simple HTTP-based pub-sub notification service.
 
 To make use of envs ntfy service, on Android for example, you need two things:
 
-* the `ntfy` app
-* a UnifiedPush-compatible matrix app
+- the `ntfy` app
+- a UnifiedPush-compatible matrix app
 
 You need to install the `ntfy` app on each device on which you want to receive push notifications through your ntfy server. The `ntfy` app will provide UnifiedPush notifications to any number of UnifiedPush-compatible messaging apps installed on the same device.
 
@@ -56,17 +56,17 @@ Install any UnifiedPush-enabled matrix app on that same device. The matrix app w
 
 Steps needed for specific matrix apps:
 
-* FluffyChat-android:
-  - Should auto-detect and use it. No manual settings.
+- FluffyChat-android:
+    - Should auto-detect and use it. No manual settings.
 
-* SchildiChat-android:
-  1. enable `Settings` -> `Notifications` -> `UnifiedPush: Force custom push gateway`.
-  2. choose `Settings` -> `Notifications` -> `UnifiedPush: Re-register push distributor`. *(For info, a more complex alternative to achieve the same is: delete the relevant unifiedpush registration in `ntfy` app, force-close SchildiChat, re-open it.)*
-  3. verify `Settings` -> `Notifications` -> `UnifiedPush: Notification targets` as described below in the "Troubleshooting" section.
+- SchildiChat-android:
+    - enable `Settings` -> `Notifications` -> `UnifiedPush: Force custom push gateway`.
+    - choose `Settings` -> `Notifications` -> `UnifiedPush: Re-register push distributor`. *(For info, a more complex alternative to achieve the same is: delete the relevant unifiedpush registration in `ntfy` app, force-close SchildiChat, re-open it.)*
+    - verify `Settings` -> `Notifications` -> `UnifiedPush: Notification targets` as described below in the "Troubleshooting" section.
 
-* Element-android v1.4.26+:
-  1. choose `Settings` -> `Notifications` -> `Notification method` -> `ntfy`
-  2. verify `Settings` -> `Troubleshoot` -> `Troubleshoot notification settings`
+- Element-android v1.4.26+:
+    - choose `Settings` -> `Notifications` -> `Notification method` -> `ntfy`
+    - verify `Settings` -> `Troubleshoot` -> `Troubleshoot notification settings`
 
 If the matrix app asks, "Choose a distributor: FCM Fallback or ntfy", then choose "ntfy".
 
