@@ -33,7 +33,7 @@ When the mouse is moved over individual rooms in the room list, 3 grey dots appe
 
 ## using an alternative push gateway (ntfy)
 
-ntfy (pronounce: notify) is a simple HTTP-based pub-sub notification service.
+[ntfy](https://ntfy.sh/) (pronounce: notify) is a simple HTTP-based pub-sub notification service.
 
 To make use of envs ntfy service, on Android for example, you need two things:
 
