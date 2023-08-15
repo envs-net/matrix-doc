@@ -37,10 +37,6 @@ feel free to use our bot's in your room!
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
 	you can try all the bots in [`#test:envs.net`](https://matrix.to/#/#test:envs.net).
 
-!!! info
-    you can also add all the bot's via the envs integration Manager names [Dimension](https://dimension.envs.net/).
-    ![opened integration manager menu](/images/local_bots_integration.png)
-
 ***
 
 ## Audio Preventer
