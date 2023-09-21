@@ -31,7 +31,7 @@ feel free to use our bot's in your room!
 [echobot [envs]](#echobot_envs) |
 [media Bot](#media_bot) |
 [fetch Image Bot](#fetch_image_bot) |
-[social Preview Bot](#youtube_preview_bot)
+[social Preview Bot](#social_preview_bot)
 
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
