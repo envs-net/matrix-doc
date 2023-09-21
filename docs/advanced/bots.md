@@ -31,7 +31,7 @@ feel free to use our bot's in your room!
 [echobot [envs]](#echobot_envs) |
 [media Bot](#media_bot) |
 [fetch Image Bot](#fetch_image_bot) |
-[youtube Preview Bot](#youtube_preview_bot)
+[social Preview Bot](#youtube_preview_bot)
 
 !!! info
 	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
@@ -401,9 +401,9 @@ A Bot to fetch an image from an URL.
 
 **Usage:** `!fetch-image https://example.org/some_image.jpg`
 
-## youtube Preview Bot
+## social Preview Bot
 
 **name:** [`@youtube:envs.net`](https://matrix.to/#/@youtube:envs.net)  
-**src:** [https://github.com/ggogel/YoutubePreviewMaubot](https://github.com/ggogel/YoutubePreviewMaubot)
+**src:** [https://github.com/ggogel/SocialMediaDownloadMaubot](https://github.com/ggogel/SocialMediaDownloadMaubot)
 
-A simple Bot that responds to a YouTube link with the video title and thumbnail.
+A simple Bot that responds to a Reddit/Instagram/YouTube link with the video title and thumbnail.
