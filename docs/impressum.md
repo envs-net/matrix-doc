@@ -10,8 +10,8 @@ The [Impressum of envs.net](https://envs.net/impressum) is valid with the follow
 responsible according to § 5 TMG:
 
 Sven Kinne ([~creme](https://envs.net/~creme/))<br />
-Rudolfstraße 13<br />
-D-01097 Dresden
+Bautzener Straße 6<br />
+D-02943 Boxberg O.L. / O.T. Uhyst
 
 E-mail: [hostmaster@envs.net](mailto:hostmaster@envs.net)
 
