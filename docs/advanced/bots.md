@@ -178,7 +178,7 @@ A GitHub client and webhook receiver for maubot.
    After inviting your bot / client to a matrix channel, use the `!gh` or
    `!github` command to use the github instance.
 
-   Using `gh login` first is mandatory and needed once **per instance**.
+   Using `!gh login` first is mandatory and needed once **per instance**.
 
    The bot will reply with a link leading to your personal Github's allowed
    OAuth apps page, where you shall grant the necessary rights to the bot
