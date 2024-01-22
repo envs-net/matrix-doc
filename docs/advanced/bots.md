@@ -31,6 +31,7 @@ feel free to use our bot's in your room!
 [echobot [envs]](#echobot_envs) |
 [media Bot](#media_bot) |
 [fetch Image Bot](#fetch_image_bot) |
+[urldownload Bot](#urldownload_bot) |
 [social Preview Bot](#social_preview_bot)
 
 !!! info
@@ -400,6 +401,21 @@ A Bot to fetch an image from an URL.
 **src:** [https://github.com/shukon/maubot-fetchimage](https://github.com/shukon/maubot-fetchimage)
 
 **Usage:** `!fetch-image https://example.org/some_image.jpg`
+
+## urldownload Bot
+
+A Bot to fetch an image from an URL.
+
+**name:** [`@urldownload:envs.net`](https://matrix.to/#/@fetchimage:envs.net)  
+**src:** [https://codeberg.org/LukeLR/matrix-url-download](https://codeberg.org/LukeLR/matrix-url-download)
+
+**Usage:** `!urldownload <subcommand> [...]`
+
+- `enable` - Enable downloading of URLs in this chat
+- `disable` - Disable downloading of URLs in this chat
+- `status` - Get status of URLDownloader in this chat
+- `debug [State of debug mode]` - Manage or get debug status in this room
+
 
 ## social Preview Bot
 
