@@ -406,7 +406,7 @@ A Bot to fetch an image from an URL.
 
 A Bot to fetch an image from an URL.
 
-**name:** [`@urldownload:envs.net`](https://matrix.to/#/@fetchimage:envs.net)  
+**name:** [`@urldownload:envs.net`](https://matrix.to/#/@urldownload:envs.net)  
 **src:** [https://codeberg.org/LukeLR/matrix-url-download](https://codeberg.org/LukeLR/matrix-url-download)
 
 **Usage:** `!urldownload <subcommand> [...]`
