@@ -35,7 +35,7 @@ feel free to use our bot's in your room!
 [social Preview Bot](#social_preview_bot)
 
 !!! info
-	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots.  
+	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots except for [Cat Disruptor](#cat_disruptor).  
 	you can try all the bots in [`#test:envs.net`](https://matrix.to/#/#test:envs.net).
 
 ***
@@ -404,7 +404,7 @@ A Bot to fetch an image from an URL.
 
 ## urldownload Bot
 
-A Bot to fetch an image from an URL.
+Implementing URL downloads in matrix rooms.
 
 **name:** [`@urldownload:envs.net`](https://matrix.to/#/@urldownload:envs.net)  
 **src:** [https://codeberg.org/LukeLR/matrix-url-download](https://codeberg.org/LukeLR/matrix-url-download)
@@ -419,7 +419,7 @@ A Bot to fetch an image from an URL.
 
 ## social Preview Bot
 
+A simple Bot that responds to a Reddit/Instagram/YouTube link with the video title and thumbnail.
+
 **name:** [`@youtube:envs.net`](https://matrix.to/#/@youtube:envs.net)  
 **src:** [https://github.com/ggogel/SocialMediaDownloadMaubot](https://github.com/ggogel/SocialMediaDownloadMaubot)
-
-A simple Bot that responds to a Reddit/Instagram/YouTube link with the video title and thumbnail.
