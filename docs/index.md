@@ -55,7 +55,6 @@ In recent years, the need for supporting digital tools for team collaboration ha
 The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the ENVS main room - here problems and solutions can be discussed together:
 
 * [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net) - official channel for envs.net
-* [`#envs_german:envs.net`](https://matrix.to/#/#envs_german:envs.net) - german speaking project channel
 
 ***
 
