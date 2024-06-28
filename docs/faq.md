@@ -177,8 +177,8 @@ This will move all Matrix users in the old room to the new room.
 2) Go back to the old room.
 
 * Type `/devtools`.
-* Select "Send custom timeline event"
-* Set event type to `m.room.tombstone`
+* Select "Explore room state" -> "Send custom timeline event"
+* Set "event type" to `m.room.tombstone` ("state key" can remain empty)
 * In event content enter (you'll need the target room_ID now):
 
 ```json
