@@ -34,7 +34,7 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [How can Matrix be used? (registration and first steps)](first-steps.md)
 * [Recommendations for further important settings after first login](settings.md)
 * [Installation of a client / program](clients.md)
-    * [Browser settings](/clients/browser.md)
+    * [Browser settings](/clients/browser/)
 * [Find people and send direct messages](messaging.md)
 * [Use end-to-end encryption](encryption.md)
 * [Create rooms and take responsibility](rooms.md)
@@ -45,9 +45,9 @@ In recent years, the need for supporting digital tools for team collaboration ha
 * [Using spaces as room filters](rooms/spaces/)
 * [Fine-tune notifications](notifications.md)
 * [Use integrations, bridges, bots (e.g. Jitsi)](/advanced/integrations/)
-* [More Clients](/clients/more_clients.md)
+* [More Clients](/clients/more_clients/)
 * [Further development of Matrix](development.md)
-* [Privacy policy](https://envs.net/_matrix/consent)
+* [Privacy policy](https://matrix.envs.net/_matrix/consent)
 * [Impressum](impressum.md)
 
 ## Questions and Contact

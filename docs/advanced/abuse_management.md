@@ -5,11 +5,11 @@ date: 2021-08-03T20:30:00+02:00
 
 # Abuse Management
 
-our matrix instance has a moderation tool [mjolnir](https://github.com/matrix-org/mjolnir).  
+our matrix instance has a moderation tool [draupnir](https://github.com/the-draupnir-project/Draupnir) (a [mjolnir](https://github.com/matrix-org/mjolnir) fork).  
 !!! info
     you are welcome to join [#abuse:envs.net](https://matrix.to/#/#abuse:envs.net) to report people for inappropriate behavior.
 
-to protect your own room from known spammers and evil accounts:  
+if you are an envs.net user feel free to protect your own room from known spammers and evil accounts:  
 
 - invite [@mjolnir:envs.net](https://matrix.to/#/@mjolnir:envs.net) and give the user admin Permissions.  
 
