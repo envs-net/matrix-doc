@@ -423,3 +423,7 @@ A simple Bot that responds to a Reddit/Instagram/YouTube link with the video tit
 
 **name:** [`@youtube:envs.net`](https://matrix.to/#/@youtube:envs.net)  
 **src:** [https://github.com/ggogel/SocialMediaDownloadMaubot](https://github.com/ggogel/SocialMediaDownloadMaubot)
+
+the 'social Preview Bot' contains also a plugin to find and convert Spotify links shared in rooms automatically to your preferred streaming service.
+
+**src:** [https://github.com/HarHarLinks/maubot-idonthavespotify](https://github.com/HarHarLinks/maubot-idonthavespotify)
