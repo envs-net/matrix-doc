@@ -35,11 +35,10 @@ after this step, the room is protected.
 ### lists that we watch
 *These bans we trust and taken over by our local mjolnir.*
 
+- [#community-moderation-effort-bl:neko.dev](https://matrix.to/#/#community-moderation-effort-bl:neko.dev)
 - [#matrix-org-coc-bl:matrix.org](https://matrix.to/#/#matrix-org-coc-bl:matrix.org)
 - [#matrix-org-hs-tos-bl:matrix.org](https://matrix.to/#/#matrix-org-hs-tos-bl:matrix.org)
 - [#public-server-bans:ru-matrix.org](https://matrix.to/#/#public-server-bans:ru-matrix.org)
-- [#asragrbanlist_general:asra.gr](https://matrix.to/#/#asragrbanlist_general:asra.gr)
-- [#community-moderation-effort-bl:neko.dev](https://matrix.to/#/#community-moderation-effort-bl:neko.dev)
 
 ## ignore people *(element feature_mjolnir)*
 
