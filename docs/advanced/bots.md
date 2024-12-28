@@ -22,12 +22,13 @@ feel free to use our bot's in your room!
 [Github Bot](#github_bot) |
 [Karma Bot](#karma_bot) |
 [media Bot](#media_bot) |
+[ntfy Bot](#ntfy_bot) |
 [Poll Bot](#poll_bot) |
 [Reminder](#reminder) |
 [RSS Bot](#rss_bot) |
 [sed Bot](#sed_bot) |
 [social Preview Bot](#social_preview_bot) |
-[Timer](timer) |
+[Timer](#timer) |
 [Translator](#translator) |
 [urbandictionary Bot](#urbandictionary_bot) |
 [urldownload Bot](#urldownload_bot) |
@@ -217,6 +218,19 @@ A simple Bot that posts MXC URIs of uploaded images.
 
 **name:** [`@media:envs.net`](https://matrix.to/#/@media:envs.net)  
 **src:** [https://github.com/maubot/media](https://github.com/maubot/media)
+
+## ntfy Bot
+
+This is a bot to subscribe to ntfy topics and send messages to a matrix room.
+
+**name:** [`@ntfy:envs.net`](https://matrix.to/#/@ntfy:envs.net)  
+**src:** [https://gitlab.com/999eagle/maubot-ntfy](https://gitlab.com/999eagle/maubot-ntfy)
+
+**Usage:**
+
+Use `!ntfy subscribe server/topic` (for example `!ntfy subscribe ntfy.envs.net/my_topic`) to subscribe the current room to the ntfy topic. Future messages will be sent to the room.
+
+To unsubscribe, use `!ntfy unsubscribe server/topic`.
 
 ## Poll Bot
 
