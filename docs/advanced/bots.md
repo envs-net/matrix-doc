@@ -38,7 +38,7 @@ feel free to use our bot's in your room!
 [XKCD](#xkcd)
 
 !!! info
-	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots except for [Cat Disruptor](#cat_disruptor).  
+	there is also [@maubot:envs.net](https://matrix.to/#/@maubot:envs.net) which includes all bots except for [Cat Disruptor](#cat_disruptor) and [Anti-Thread Bot](#anti-thread_bot).  
 	you can try all the bots in [`#test:envs.net`](https://matrix.to/#/#test:envs.net).
 
 ***
