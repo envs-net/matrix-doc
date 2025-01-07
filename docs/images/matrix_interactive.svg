@@ -1515,7 +1515,7 @@
              x="30.269667"
              y="39.320148"
              id="tspan612-2-4"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Server an der TUD, HTTPS</tspan></text>
+             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Server von envs.net, HTTPS</tspan></text>
         <text
            xml:space="preserve"
            id="text3221-3-8-6-5-1-88"
@@ -1746,7 +1746,7 @@
              x="30.269667"
              y="39.320148"
              id="tspan612-2-1"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Logge dich mit deinem ZIH-</tspan></text>
+             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Logge dich mit deinem matrix.envs.net</tspan></text>
         <text
            xml:space="preserve"
            id="text3221-3-8-6-5-1-8"
@@ -2328,7 +2328,7 @@
              x="30.269667"
              y="39.320148"
              id="tspan612-84"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Serverstandort: TU Dresden</tspan></text>
+             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Serverstandort: envs.net</tspan></text>
         <text
            xml:space="preserve"
            id="text3221-3-8-6-5-8"
@@ -2507,7 +2507,7 @@
              x="30.269667"
              y="39.320148"
              id="tspan612-96-4"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Daten, Support, Updates</tspan></text>
+             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1">Updates</tspan></text>
         <text
            xml:space="preserve"
            id="text3221-3-8-6-5-3-7"
@@ -2517,7 +2517,7 @@
              x="30.473221"
              y="42.822464"
              id="tspan612-6-8-6"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1;stroke-width:1">u.v.m. wird von der TUD</tspan></text>
+             style="font-size:2.82222px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:#b31f23;fill-opacity:1;stroke-width:1">u.v.m. wird von envs.net</tspan></text>
         <text
            xml:space="preserve"
            id="text3221-3-8-6-3-5-3"
@@ -3392,7 +3392,7 @@
     </g>
   </a>
   <a
-     href="https://matrix.tu-dresden.de"
+     href="https://matrix.envs.net"
      target="_blank"
      rel="noopener noreferrer"
      id="href_element">
@@ -3424,7 +3424,7 @@
            x="289.30502"
            y="171.15099"
            id="tspan612-8-4-1-6-9-9"
-           style="font-size:2.46944px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1">Der TUD-Webdienst im Browser</tspan></text>
+           style="font-size:2.46944px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1">Der envs.net Webclient im Browser</tspan></text>
     </g>
   </a>
   <a
