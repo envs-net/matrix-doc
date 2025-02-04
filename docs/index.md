@@ -72,6 +72,8 @@ The ideal is to deal with problems in a transparent way, from which all others c
     `Settings > Help & About > Clear Cache and reload`
 
 !!! note
-    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) (unfederated) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
+    The envs.net Homeserver do not accept temporary email addresses for user accounts!
     ___
     The file upload limit on the Homeserver is: `100mb`
+    ___
+    Current maintenance is announced in the matrix room [#home:envs.net](https://matrix.to/#/#home:envs.net) (unfederated) and [#status:envs.net](https://matrix.to/#/#status:envs.net).
